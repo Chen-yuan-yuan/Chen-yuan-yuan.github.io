@@ -41,6 +41,30 @@
   </entry>
   
   <entry>
+    <title>Mac os创建React项目（windows同）</title>
+    <link href="http://yoursite.com/2019/11/13/Mac-os%E5%88%9B%E5%BB%BAReact%E9%A1%B9%E7%9B%AE%EF%BC%88windows%E4%B8%80%E6%A0%B7%EF%BC%89/"/>
+    <id>http://yoursite.com/2019/11/13/Mac-os%E5%88%9B%E5%BB%BAReact%E9%A1%B9%E7%9B%AE%EF%BC%88windows%E4%B8%80%E6%A0%B7%EF%BC%89/</id>
+    <published>2019-11-13T09:02:00.000Z</published>
+    <updated>2020-06-24T16:00:34.851Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Thu Jun 25 2020 00:00:35 GMT+0800 (GMT+08:00) --><h3 id="1下载nodejs"><a class="markdownIt-Anchor" href="#1下载nodejs"></a> 1.下载node.js。</h3><p>略。</p><h3 id="2安装cnpm-可以略过使用国内的下载速度会好些"><a class="markdownIt-Anchor" href="#2安装cnpm-可以略过使用国内的下载速度会好些"></a> 2.安装cnpm。（可以略过，使用国内的下载速度会好些）</h3><p>终端：npm install -g cnpm --registry=https://registry.npm.taobao.org</p><h3 id="3全局安装-2选1"><a class="markdownIt-Anchor" href="#3全局安装-2选1"></a> 3.全局安装。(2选1)</h3><p>终端：npm install -g create-react-app（安装国外的镜像）<br>终端：cnpm install -g create-react-app（安装国内的镜像）</p><h3 id="4进入自己的工作空间-平时项目放置的文件"><a class="markdownIt-Anchor" href="#4进入自己的工作空间-平时项目放置的文件"></a> 4.进入自己的工作空间。（平时项目放置的文件）</h3><p>终端：cd xxx/xxx/（进入自己的项目文件）<br>终端：create-react-app 项目名（创建自己的React项目）<br>终端：npm init（初始化）</p><h3 id="5导入react和react-dom"><a class="markdownIt-Anchor" href="#5导入react和react-dom"></a> 5.导入react和react-dom。</h3><p>终端：npm install --save react react-dom</p><h3 id="6安装路由"><a class="markdownIt-Anchor" href="#6安装路由"></a> 6.安装路由。</h3><p>终端：npm install --save react-router-dom</p><h3 id="7启动"><a class="markdownIt-Anchor" href="#7启动"></a> 7.启动。</h3><p>终端：npm start</p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Thu Jun 25 2020 00:00:35 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;1下载nodejs&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1下载nodejs&quot;&gt;&lt;/a&gt; 1.下载
+      
+    
+    </summary>
+    
+    
+    
+      <category term="React" scheme="http://yoursite.com/tags/React/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Windows拿出桌面图标</title>
     <link href="http://yoursite.com/2019/06/27/Windows%E6%8B%BF%E5%87%BA%E6%A1%8C%E9%9D%A2%E5%9B%BE%E6%A0%87/"/>
     <id>http://yoursite.com/2019/06/27/Windows%E6%8B%BF%E5%87%BA%E6%A1%8C%E9%9D%A2%E5%9B%BE%E6%A0%87/</id>
@@ -307,30 +331,6 @@
       <category term="GitHub" scheme="http://yoursite.com/tags/GitHub/"/>
     
       <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Mac os创建React项目（windows同）</title>
-    <link href="http://yoursite.com/2018/06/24/Mac-os%E5%88%9B%E5%BB%BAReact%E9%A1%B9%E7%9B%AE%EF%BC%88windows%E4%B8%80%E6%A0%B7%EF%BC%89/"/>
-    <id>http://yoursite.com/2018/06/24/Mac-os%E5%88%9B%E5%BB%BAReact%E9%A1%B9%E7%9B%AE%EF%BC%88windows%E4%B8%80%E6%A0%B7%EF%BC%89/</id>
-    <published>2018-06-24T09:02:00.000Z</published>
-    <updated>2020-06-24T10:08:08.224Z</updated>
-    
-    <content type="html"><![CDATA[<!-- build time:Wed Jun 24 2020 23:54:33 GMT+0800 (GMT+08:00) --><h3 id="1下载nodejs"><a class="markdownIt-Anchor" href="#1下载nodejs"></a> 1.下载node.js。</h3><p>略。</p><h3 id="2安装cnpm-可以略过使用国内的下载速度会好些"><a class="markdownIt-Anchor" href="#2安装cnpm-可以略过使用国内的下载速度会好些"></a> 2.安装cnpm。（可以略过，使用国内的下载速度会好些）</h3><p>终端：npm install -g cnpm --registry=https://registry.npm.taobao.org</p><h3 id="3全局安装-2选1"><a class="markdownIt-Anchor" href="#3全局安装-2选1"></a> 3.全局安装。(2选1)</h3><p>终端：npm install -g create-react-app（安装国外的镜像）<br>终端：cnpm install -g create-react-app（安装国内的镜像）</p><h3 id="4进入自己的工作空间-平时项目放置的文件"><a class="markdownIt-Anchor" href="#4进入自己的工作空间-平时项目放置的文件"></a> 4.进入自己的工作空间。（平时项目放置的文件）</h3><p>终端：cd xxx/xxx/（进入自己的项目文件）<br>终端：create-react-app 项目名（创建自己的React项目）<br>终端：npm init（初始化）</p><h3 id="5导入react和react-dom"><a class="markdownIt-Anchor" href="#5导入react和react-dom"></a> 5.导入react和react-dom。</h3><p>终端：npm install --save react react-dom</p><h3 id="6安装路由"><a class="markdownIt-Anchor" href="#6安装路由"></a> 6.安装路由。</h3><p>终端：npm install --save react-router-dom</p><h3 id="7启动"><a class="markdownIt-Anchor" href="#7启动"></a> 7.启动。</h3><p>终端：npm start</p><!-- rebuild by neat -->]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Wed Jun 24 2020 23:54:33 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;1下载nodejs&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1下载nodejs&quot;&gt;&lt;/a&gt; 1.下载
-      
-    
-    </summary>
-    
-    
-    
-      <category term="React" scheme="http://yoursite.com/tags/React/"/>
     
   </entry>
   

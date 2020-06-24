@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://yoursite.com/2019/11/13/Mac-os%E5%88%9B%E5%BB%BAReact%E9%A1%B9%E7%9B%AE%EF%BC%88windows%E4%B8%80%E6%A0%B7%EF%BC%89/</loc>
+    <lastmod>2020-06-24</lastmod>
+  </url>  <url>
     <loc>http://yoursite.com/2020/06/24/Mac-os%E6%90%AD%E5%BB%BAAngular%E9%A1%B9%E7%9B%AE/</loc>
     <lastmod>2020-06-24</lastmod>
   </url>  <url>
@@ -26,9 +29,6 @@
     <lastmod>2020-06-24</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2018/06/22/%E6%88%91%E7%9A%84XXX%E6%96%87%E7%AB%A0/</loc>
-    <lastmod>2020-06-24</lastmod>
-  </url>  <url>
-    <loc>http://yoursite.com/2018/06/24/Mac-os%E5%88%9B%E5%BB%BAReact%E9%A1%B9%E7%9B%AE%EF%BC%88windows%E4%B8%80%E6%A0%B7%EF%BC%89/</loc>
     <lastmod>2020-06-24</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2018/06/24/Mac-os%E5%B0%86hexo%E5%8D%9A%E5%AE%A2%E6%94%BE%E5%88%B0GitHub/</loc>
