@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-06-24T10:22:05.223Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Mac 配置Vue环境</title>
+    <link href="http://yoursite.com/2020/06/24/Mac-%E9%85%8D%E7%BD%AEVue%E7%8E%AF%E5%A2%83/"/>
+    <id>http://yoursite.com/2020/06/24/Mac-%E9%85%8D%E7%BD%AEVue%E7%8E%AF%E5%A2%83/</id>
+    <published>2020-06-24T10:17:00.000Z</published>
+    <updated>2020-06-24T10:22:05.223Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Wed Jun 24 2020 18:38:38 GMT+0800 (GMT+08:00) --><p>1.检查node版本</p><p>node -v</p><p>2.查看npm版本</p><p>npm -v</p><p>3.安装vue脚手架</p><p>sudo npm install -g vue-cli（安装的是vue-cli2.x）</p><p>sudo npm install -g @vue/cli （安装的是vue-cli3.x）</p><p>出现错误的处理：</p><p>清除缓存的命令：npm cache clean --force</p><p>清除缓存后，用vue -V 命令查看版本</p><p>4.进入自己的项目目录</p><p>cd xxx(项目目录)</p><p>5、进入工作空间</p><p>命令：cd xxx(工作空间)</p><p>6、创建项目</p><p>命令：vue create 项目名</p><p>7、选择手动配置组件或者默认</p><p>略。（网上很多，可以自己找）</p><p>8、启动。</p><p>npm start</p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Wed Jun 24 2020 18:38:38 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;1.检查node版本&lt;/p&gt;&lt;p&gt;node -v&lt;/p&gt;&lt;p&gt;2.查看npm版本&lt;/p&gt;&lt;p&gt;npm -v&lt;/p&gt;&lt;p&gt;3.安装vue脚手架&lt;/
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Vue" scheme="http://yoursite.com/tags/Vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows拿出桌面图标</title>
+    <link href="http://yoursite.com/2019/06/27/Windows%E6%8B%BF%E5%87%BA%E6%A1%8C%E9%9D%A2%E5%9B%BE%E6%A0%87/"/>
+    <id>http://yoursite.com/2019/06/27/Windows%E6%8B%BF%E5%87%BA%E6%A1%8C%E9%9D%A2%E5%9B%BE%E6%A0%87/</id>
+    <published>2019-06-27T10:14:00.000Z</published>
+    <updated>2020-06-24T10:15:10.315Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Wed Jun 24 2020 18:38:38 GMT+0800 (GMT+08:00) --><h3 id="在终端输入"><a class="markdownIt-Anchor" href="#在终端输入"></a> 在终端输入：</h3><p>rundll32.exe shell32.dll,Control_RunDLL desk.cpl,0</p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Wed Jun 24 2020 18:38:38 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;在终端输入&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#在终端输入&quot;&gt;&lt;/a&gt; 在终端输入：&lt;/h3&gt;&lt;
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Windows" scheme="http://yoursite.com/tags/Windows/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MySql for mac拥有者发生改变-解决方案</title>
+    <link href="http://yoursite.com/2019/06/24/MySql-for-mac%E6%8B%A5%E6%9C%89%E8%80%85%E5%8F%91%E7%94%9F%E6%94%B9%E5%8F%98-%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/"/>
+    <id>http://yoursite.com/2019/06/24/MySql-for-mac%E6%8B%A5%E6%9C%89%E8%80%85%E5%8F%91%E7%94%9F%E6%94%B9%E5%8F%98-%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</id>
+    <published>2019-06-24T10:37:00.000Z</published>
+    <updated>2020-06-24T10:37:34.210Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Wed Jun 24 2020 18:38:38 GMT+0800 (GMT+08:00) --><h3 id="终端输入"><a class="markdownIt-Anchor" href="#终端输入"></a> 终端输入：</h3><p>sudo chown -R mysql /usr/local/mysql/data</p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Wed Jun 24 2020 18:38:38 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;终端输入&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#终端输入&quot;&gt;&lt;/a&gt; 终端输入：&lt;/h3&gt;&lt;p&gt;s
+      
+    
+    </summary>
+    
+    
+    
+      <category term="MySql" scheme="http://yoursite.com/tags/MySql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mac os配置Tomcat</title>
+    <link href="http://yoursite.com/2019/06/24/Mac-os%E9%85%8D%E7%BD%AETomcat/"/>
+    <id>http://yoursite.com/2019/06/24/Mac-os%E9%85%8D%E7%BD%AETomcat/</id>
+    <published>2019-06-24T10:25:00.000Z</published>
+    <updated>2020-06-24T10:27:02.165Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Wed Jun 24 2020 18:38:38 GMT+0800 (GMT+08:00) --><h3 id="一-下载"><a class="markdownIt-Anchor" href="#一-下载"></a> 一、 下载</h3><p>登录Apache Tomcat官网，地址http://tomcat.apache.org点击左边的Download，选择需要下载的版本。</p><h3 id="二-设置本地放置路径"><a class="markdownIt-Anchor" href="#二-设置本地放置路径"></a> 二、设置本地放置路径</h3><p>把下载下来的包解压到 /Users/你的用户名/目录下</p><h3 id="三-启动tomcat"><a class="markdownIt-Anchor" href="#三-启动tomcat"></a> 三、启动Tomcat</h3><p>打开终端<br>cd /Users/你的用户名/apache-tomcat-9.0.0.M21/bin，回车<br>赋予超级管理员权限sudo chmod 755 *.sh，<br>输入：./startup.sh，就可以启动我们自己的Tomcat了<br>打开我们的浏览器，输入 <a href="http://localhost:8080" target="_blank" rel="noopener">http://localhost:8080</a>，如果出现一只猫，则证明配置成功。</p><h3 id="四-关闭tomcat"><a class="markdownIt-Anchor" href="#四-关闭tomcat"></a> 四、关闭Tomcat</h3><p>同样是在bin目录下，在终端输入：./shutdown.sh+ 回车，就可以了。</p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Wed Jun 24 2020 18:38:38 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;一-下载&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#一-下载&quot;&gt;&lt;/a&gt; 一、 下载&lt;/h3&gt;&lt;p&gt;登
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Tomcat" scheme="http://yoursite.com/tags/Tomcat/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Jsp页面传值</title>
+    <link href="http://yoursite.com/2019/06/24/jsp%E9%A1%B5%E9%9D%A2%E4%BC%A0%E9%80%92%E5%8F%82%E6%95%B0/"/>
+    <id>http://yoursite.com/2019/06/24/jsp%E9%A1%B5%E9%9D%A2%E4%BC%A0%E9%80%92%E5%8F%82%E6%95%B0/</id>
+    <published>2019-06-24T09:51:00.000Z</published>
+    <updated>2020-06-24T10:07:08.713Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Wed Jun 24 2020 18:38:38 GMT+0800 (GMT+08:00) --><h3 id="传输"><a class="markdownIt-Anchor" href="#传输"></a> 传输</h3><p>1.用el表达式？参数名=XXX</p><h3 id="接收"><a class="markdownIt-Anchor" href="#接收"></a> 接收</h3><p>1.用${param.参数名} 接收</p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Wed Jun 24 2020 18:38:38 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;传输&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#传输&quot;&gt;&lt;/a&gt; 传输&lt;/h3&gt;&lt;p&gt;1.用el表达式
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Jsp" scheme="http://yoursite.com/tags/Jsp/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MySql for mac中文数据出现问号</title>
+    <link href="http://yoursite.com/2019/06/21/MySql-for-mac%E4%B8%AD%E6%96%87%E6%95%B0%E6%8D%AE%E5%87%BA%E7%8E%B0%E9%97%AE%E5%8F%B7/"/>
+    <id>http://yoursite.com/2019/06/21/MySql-for-mac%E4%B8%AD%E6%96%87%E6%95%B0%E6%8D%AE%E5%87%BA%E7%8E%B0%E9%97%AE%E5%8F%B7/</id>
+    <published>2019-06-21T10:11:00.000Z</published>
+    <updated>2020-06-24T10:13:35.367Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Wed Jun 24 2020 18:38:38 GMT+0800 (GMT+08:00) --><h3 id="在连接数据库的url属性中添加"><a class="markdownIt-Anchor" href="#在连接数据库的url属性中添加"></a> 在连接数据库的URL属性中添加：</h3><p>useUnicode=true&amp;characterEncoding=utf8</p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Wed Jun 24 2020 18:38:38 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;在连接数据库的url属性中添加&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#在连接数据库的url属性中添
+      
+    
+    </summary>
+    
+    
+    
+      <category term="MySql" scheme="http://yoursite.com/tags/MySql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mac os终端打开MySql</title>
+    <link href="http://yoursite.com/2019/06/04/Mac-os%E7%BB%88%E7%AB%AF%E6%89%93%E5%BC%80MySql/"/>
+    <id>http://yoursite.com/2019/06/04/Mac-os%E7%BB%88%E7%AB%AF%E6%89%93%E5%BC%80MySql/</id>
+    <published>2019-06-04T10:03:00.000Z</published>
+    <updated>2020-06-24T10:11:06.909Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Wed Jun 24 2020 18:38:38 GMT+0800 (GMT+08:00) --><h3 id="1打开终端"><a class="markdownIt-Anchor" href="#1打开终端"></a> 1.打开终端。</h3><p>sudo su 回车<br>输入：电脑密码</p><h3 id="2进入mysql的路径"><a class="markdownIt-Anchor" href="#2进入mysql的路径"></a> 2.进入MySql的路径。</h3><p>/usr/local/mysql/bin/mysql -u root -p 回车<br>输入：MySql密码</p><h3 id="3退出mysql"><a class="markdownIt-Anchor" href="#3退出mysql"></a> 3.退出MySql。</h3><p>输入：quit 回车</p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Wed Jun 24 2020 18:38:38 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;1打开终端&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1打开终端&quot;&gt;&lt;/a&gt; 1.打开终端。&lt;/h3&gt;
+      
+    
+    </summary>
+    
+    
+    
+      <category term="MySql" scheme="http://yoursite.com/tags/MySql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Tomcat for Mac端口被占用解决方案</title>
+    <link href="http://yoursite.com/2019/06/02/Tomcat-for-Mac%E7%AB%AF%E5%8F%A3%E8%A2%AB%E5%8D%A0%E7%94%A8%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/"/>
+    <id>http://yoursite.com/2019/06/02/Tomcat-for-Mac%E7%AB%AF%E5%8F%A3%E8%A2%AB%E5%8D%A0%E7%94%A8%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</id>
+    <published>2019-06-02T10:00:00.000Z</published>
+    <updated>2020-06-24T10:10:45.929Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Wed Jun 24 2020 18:38:38 GMT+0800 (GMT+08:00) --><h3 id="1概述"><a class="markdownIt-Anchor" href="#1概述"></a> 1.概述</h3><p>Tomcat不正常关闭，经常会导致再启动端口时，显示端口被占用。本文分别介绍了在Windows平台和Mac平台下的解决方法。</p><h3 id="2mac平台解决方法"><a class="markdownIt-Anchor" href="#2mac平台解决方法"></a> 2.Mac平台解决方法</h3><p>查询占用8080端口的线程（如果你的端口不是8080，请自行修改）<br>终端：lsof -i:8080<br>结果如下：<br>COMMAND PID USER FD TYPE DEVICE SIZE/OFF NODE NAME<br>java 1153 chunsoft 49u IPv6 0xf78b5050ceb3fc95 0t0 TCP *:http-alt (LISTEN)</p><h3 id="3杀死占用进程"><a class="markdownIt-Anchor" href="#3杀死占用进程"></a> 3.杀死占用进程</h3><p>我对应的进程ID是1153，所有杀死该进程。<br>终端：kill -9 1153</p><h3 id="4再次重启就能正常启动了"><a class="markdownIt-Anchor" href="#4再次重启就能正常启动了"></a> 4.再次重启，就能正常启动了。</h3><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Wed Jun 24 2020 18:38:38 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;1概述&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1概述&quot;&gt;&lt;/a&gt; 1.概述&lt;/h3&gt;&lt;p&gt;Tomc
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Tomcat" scheme="http://yoursite.com/tags/Tomcat/"/>
+    
+      <category term="Java" scheme="http://yoursite.com/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mac os向GitHub推项目报错</title>
+    <link href="http://yoursite.com/2018/06/24/Mac-os%E5%90%91GitHub%E6%8E%A8%E9%A1%B9%E7%9B%AE%E6%8A%A5%E9%94%99/"/>
+    <id>http://yoursite.com/2018/06/24/Mac-os%E5%90%91GitHub%E6%8E%A8%E9%A1%B9%E7%9B%AE%E6%8A%A5%E9%94%99/</id>
+    <published>2018-06-24T09:36:00.000Z</published>
+    <updated>2020-06-24T10:07:25.494Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Wed Jun 24 2020 18:38:38 GMT+0800 (GMT+08:00) --><p>报错内容：<br>** Please tell me who you are.<br>Run<br>git config --global user.email “<a href="mailto:you@example.com">you@example.com</a>”<br>git config --global <a href="http://user.name" target="_blank" rel="noopener">user.name</a> “Your Name”</p><p>to set your account’s default identity.<br>Omit --global to set the identity only in this repository.</p><p>fatal: unable to auto-detect email address (got ‘tim@newton.(none)’)</p><h3 id="推理"><a class="markdownIt-Anchor" href="#推理"></a> 推理：</h3><p>可能是自己的GitHub帐号和用户名未设置</p><h3 id="解决方案"><a class="markdownIt-Anchor" href="#解决方案"></a> 解决方案：</h3><p>git config --global user.email “你的GitHub邮箱”<br>git config --global <a href="http://user.name" target="_blank" rel="noopener">user.name</a> “你的GitHub用户名”</p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Wed Jun 24 2020 18:38:38 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;报错内容：&lt;br&gt;** Please tell me who you are.&lt;br&gt;Run&lt;br&gt;git config --global us
+      
+    
+    </summary>
+    
+    
+    
+      <category term="报错" scheme="http://yoursite.com/tags/%E6%8A%A5%E9%94%99/"/>
+    
+      <category term="GitHub" scheme="http://yoursite.com/tags/GitHub/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mac os搭建hexo步骤</title>
+    <link href="http://yoursite.com/2018/06/24/Mac-os%E6%90%AD%E5%BB%BAhexo%E6%AD%A5%E9%AA%A4/"/>
+    <id>http://yoursite.com/2018/06/24/Mac-os%E6%90%AD%E5%BB%BAhexo%E6%AD%A5%E9%AA%A4/</id>
+    <published>2018-06-24T09:34:00.000Z</published>
+    <updated>2020-06-24T10:07:38.120Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Wed Jun 24 2020 18:38:38 GMT+0800 (GMT+08:00) --><h3 id="1获取管理员权限"><a class="markdownIt-Anchor" href="#1获取管理员权限"></a> 1.获取管理员权限。</h3><p>sudo su</p><h3 id="2安装cnpm"><a class="markdownIt-Anchor" href="#2安装cnpm"></a> 2.安装cnpm。</h3><p>npm install -g cnpm --registry=https://registry.npm.taobao.org</p><h3 id="3安装hexo"><a class="markdownIt-Anchor" href="#3安装hexo"></a> 3.安装hexo。</h3><p>cnpm install -g hexo-cli</p><h3 id="4查看hexo版本"><a class="markdownIt-Anchor" href="#4查看hexo版本"></a> 4.查看hexo版本。</h3><p>hexo -v</p><h3 id="5查看安装的路径"><a class="markdownIt-Anchor" href="#5查看安装的路径"></a> 5.查看安装的路径。</h3><p>pwd</p><h3 id="6建立一个名为blog的文件夹"><a class="markdownIt-Anchor" href="#6建立一个名为blog的文件夹"></a> 6.建立一个名为“blog”的文件夹。</h3><p>mkdir blog/</p><h3 id="7进入blog的文件路径"><a class="markdownIt-Anchor" href="#7进入blog的文件路径"></a> 7.进入&quot;blog&quot;的文件路径。</h3><p>cd blog</p><h3 id="8安装hexo"><a class="markdownIt-Anchor" href="#8安装hexo"></a> 8.安装hexo。</h3><p>sudo hexo init</p><h3 id="9启动hexo博客"><a class="markdownIt-Anchor" href="#9启动hexo博客"></a> 9.启动hexo博客。</h3><p>hexo s</p><h3 id="10退出"><a class="markdownIt-Anchor" href="#10退出"></a> 10.退出。</h3><p>Ctrl+C</p><h3 id="11新建一篇文章"><a class="markdownIt-Anchor" href="#11新建一篇文章"></a> 11.新建一篇文章。</h3><p>hexo n “新建文章的名称”</p><h3 id="12查看效果"><a class="markdownIt-Anchor" href="#12查看效果"></a> 12.查看效果。</h3><p>hexo clean（刷新）<br>hexo g（生成文件）<br>hexo s（启动）</p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Wed Jun 24 2020 18:38:38 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;1获取管理员权限&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1获取管理员权限&quot;&gt;&lt;/a&gt; 1.获取管理
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mac os将hexo博客放到GitHub</title>
+    <link href="http://yoursite.com/2018/06/24/Mac-os%E5%B0%86hexo%E5%8D%9A%E5%AE%A2%E6%94%BE%E5%88%B0GitHub/"/>
+    <id>http://yoursite.com/2018/06/24/Mac-os%E5%B0%86hexo%E5%8D%9A%E5%AE%A2%E6%94%BE%E5%88%B0GitHub/</id>
+    <published>2018-06-24T09:29:00.000Z</published>
+    <updated>2020-06-24T10:07:55.565Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Wed Jun 24 2020 18:38:38 GMT+0800 (GMT+08:00) --><h3 id="1登陆githubcom建立自己的仓库"><a class="markdownIt-Anchor" href="#1登陆githubcom建立自己的仓库"></a> 1.登陆GitHub.com建立自己的仓库。</h3><p>仓库名：<a href="http://xn--GitHub-ud6jvf300g.github.io" target="_blank" rel="noopener">GitHub帐号名.github.io</a></p><h3 id="2装一个名字叫hexo-deployer的git插件"><a class="markdownIt-Anchor" href="#2装一个名字叫hexo-deployer的git插件"></a> 2.装一个名字叫“hexo-deployer”的git插件</h3><p>cnpm install --save hexo-deployer</p><h3 id="3设置_configyml文件的配置"><a class="markdownIt-Anchor" href="#3设置_configyml文件的配置"></a> 3.设置“_config.yml”文件的配置</h3><p>vim _config.yml（打开文件）<br>找到：“deploy：”<br>添加：<br>type:git<br>repo:你的GitHub仓库地址<br>branch:master</p><h3 id="4按esc再输入wq回车退出"><a class="markdownIt-Anchor" href="#4按esc再输入wq回车退出"></a> 4.按esc再输入：wq回车（退出）</h3><h3 id="5部署命令"><a class="markdownIt-Anchor" href="#5部署命令"></a> 5.部署命令</h3><p>终端：hexo clean（清理）<br>终端：hexo g（更新）<br>终端：hexo d（上传）</p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Wed Jun 24 2020 18:38:38 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;1登陆githubcom建立自己的仓库&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1登陆githubc
+      
+    
+    </summary>
+    
+    
+    
+      <category term="GitHub" scheme="http://yoursite.com/tags/GitHub/"/>
+    
+      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mac os创建React项目（windows同）</title>
+    <link href="http://yoursite.com/2018/06/24/Mac-os%E5%88%9B%E5%BB%BAReact%E9%A1%B9%E7%9B%AE%EF%BC%88windows%E4%B8%80%E6%A0%B7%EF%BC%89/"/>
+    <id>http://yoursite.com/2018/06/24/Mac-os%E5%88%9B%E5%BB%BAReact%E9%A1%B9%E7%9B%AE%EF%BC%88windows%E4%B8%80%E6%A0%B7%EF%BC%89/</id>
+    <published>2018-06-24T09:02:00.000Z</published>
+    <updated>2020-06-24T10:08:08.224Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Wed Jun 24 2020 18:38:38 GMT+0800 (GMT+08:00) --><h3 id="1下载nodejs"><a class="markdownIt-Anchor" href="#1下载nodejs"></a> 1.下载node.js。</h3><p>略。</p><h3 id="2安装cnpm-可以略过使用国内的下载速度会好些"><a class="markdownIt-Anchor" href="#2安装cnpm-可以略过使用国内的下载速度会好些"></a> 2.安装cnpm。（可以略过，使用国内的下载速度会好些）</h3><p>终端：npm install -g cnpm --registry=https://registry.npm.taobao.org</p><h3 id="3全局安装-2选1"><a class="markdownIt-Anchor" href="#3全局安装-2选1"></a> 3.全局安装。(2选1)</h3><p>终端：npm install -g create-react-app（安装国外的镜像）<br>终端：cnpm install -g create-react-app（安装国内的镜像）</p><h3 id="4进入自己的工作空间-平时项目放置的文件"><a class="markdownIt-Anchor" href="#4进入自己的工作空间-平时项目放置的文件"></a> 4.进入自己的工作空间。（平时项目放置的文件）</h3><p>终端：cd xxx/xxx/（进入自己的项目文件）<br>终端：create-react-app 项目名（创建自己的React项目）<br>终端：npm init（初始化）</p><h3 id="5导入react和react-dom"><a class="markdownIt-Anchor" href="#5导入react和react-dom"></a> 5.导入react和react-dom。</h3><p>终端：npm install --save react react-dom</p><h3 id="6安装路由"><a class="markdownIt-Anchor" href="#6安装路由"></a> 6.安装路由。</h3><p>终端：npm install --save react-router-dom</p><h3 id="7启动"><a class="markdownIt-Anchor" href="#7启动"></a> 7.启动。</h3><p>终端：npm start</p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Wed Jun 24 2020 18:38:38 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;1下载nodejs&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1下载nodejs&quot;&gt;&lt;/a&gt; 1.下载
+      
+    
+    </summary>
+    
+    
+    
+      <category term="React" scheme="http://yoursite.com/tags/React/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo报错： TypeError: Cannot read property &#39;count&#39; of undefined</title>
+    <link href="http://yoursite.com/2018/06/22/%E6%88%91%E7%9A%84XXX%E6%96%87%E7%AB%A0/"/>
+    <id>http://yoursite.com/2018/06/22/%E6%88%91%E7%9A%84XXX%E6%96%87%E7%AB%A0/</id>
+    <published>2018-06-22T11:16:00.000Z</published>
+    <updated>2020-06-24T10:09:58.642Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Wed Jun 24 2020 18:38:38 GMT+0800 (GMT+08:00) --><h2 id="解决方案"><a class="markdownIt-Anchor" href="#解决方案"></a> 解决方案：</h2><p>npm remove hexo-baidu-url-submit</p><p>hexo clean</p><p>hexo g</p><h2 id="关于我"><a class="markdownIt-Anchor" href="#关于我"></a> 关于我</h2><p>tel: 13677624505</p><p>QQ: 1453298987</p><p>E-mail: <a href="mailto:1453298987@qq.com">1453298987@qq.com</a></p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Wed Jun 24 2020 18:38:38 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;解决方案&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#解决方案&quot;&gt;&lt;/a&gt; 解决方案：&lt;/h2&gt;&lt;p&gt;n
+      
+    
+    </summary>
+    
+    
+    
+      <category term="报错" scheme="http://yoursite.com/tags/%E6%8A%A5%E9%94%99/"/>
+    
+      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/06/22/hello-world/"/>
+    <id>http://yoursite.com/2018/06/22/hello-world/</id>
+    <published>2018-06-22T10:50:00.000Z</published>
+    <updated>2020-06-23T11:02:49.203Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Wed Jun 24 2020 18:38:38 GMT+0800 (GMT+08:00) --><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="quick-start"><a class="markdownIt-Anchor" href="#quick-start"></a> Quick Start</h2><h3 id="create-a-new-post"><a class="markdownIt-Anchor" href="#create-a-new-post"></a> Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="run-server"><a class="markdownIt-Anchor" href="#run-server"></a> Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="generate-static-files"><a class="markdownIt-Anchor" href="#generate-static-files"></a> Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="deploy-to-remote-sites"><a class="markdownIt-Anchor" href="#deploy-to-remote-sites"></a> Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Wed Jun 24 2020 18:38:38 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hex
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
