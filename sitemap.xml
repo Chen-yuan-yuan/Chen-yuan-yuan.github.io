@@ -2,6 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/links/index.html</loc>
+    
+    <lastmod>2020-07-01T16:30:47.894Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/repository/index.html</loc>
+    
+    <lastmod>2020-07-01T16:30:47.894Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/07/01/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%BA%91%E5%87%BD%E6%95%B0-Error-errCode-404011-cloud-function-execution-error/</loc>
+    
+    <lastmod>2020-06-30T22:19:32.976Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/07/01/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%8A%A5%E9%94%99%EF%BC%9ACannot-find-module-wx-server-sdk/</loc>
+    
+    <lastmod>2020-06-30T17:44:44.026Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/07/01/hexo%E5%90%AF%E5%8A%A8%E6%8A%A5-error%EF%BC%9A13/</loc>
+    
+    <lastmod>2020-06-30T17:24:28.820Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/06/29/centos7-%E5%85%B3%E9%97%AD%E9%98%B2%E7%81%AB%E5%A2%99/</loc>
+    
+    <lastmod>2020-06-29T12:39:29.013Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/06/28/%E5%89%8D%E7%AB%AF%E4%B8%89%E5%A4%A7%E6%A1%86%E6%9E%B6%E7%9A%84%E5%90%AF%E5%8A%A8%E5%91%BD%E4%BB%A4/</loc>
+    
+    <lastmod>2020-06-28T11:59:30.064Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2019/11/13/Mac-os%E5%88%9B%E5%BB%BAReact%E9%A1%B9%E7%9B%AE%EF%BC%88windows%E4%B8%80%E6%A0%B7%EF%BC%89/</loc>
     
     <lastmod>2020-06-24T16:00:34.851Z</lastmod>
@@ -61,13 +110,6 @@
     <loc>http://yoursite.com/2019/06/02/Tomcat-for-Mac%E7%AB%AF%E5%8F%A3%E8%A2%AB%E5%8D%A0%E7%94%A8%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</loc>
     
     <lastmod>2020-06-24T10:10:45.929Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2018/06/22/%E6%88%91%E7%9A%84XXX%E6%96%87%E7%AB%A0/</loc>
-    
-    <lastmod>2020-06-24T10:09:58.642Z</lastmod>
     
   </url>
   
