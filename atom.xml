@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://chen-yuan-yuan.github.io/"/>
-  <updated>2020-07-01T19:40:24.309Z</updated>
+  <updated>2020-07-02T13:31:31.238Z</updated>
   <id>http://chen-yuan-yuan.github.io/</id>
   
   <author>
@@ -15,6 +15,66 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>React报错:Each child in an array or iterator should have a unique &quot;key&quot; prop.</title>
+    <link href="http://chen-yuan-yuan.github.io/2020/07/02/11/"/>
+    <id>http://chen-yuan-yuan.github.io/2020/07/02/11/</id>
+    <published>2020-07-02T12:28:00.000Z</published>
+    <updated>2020-07-02T13:31:31.238Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Thu Jul 02 2020 21:31:31 GMT+0800 (GMT+08:00) --><p>原因：缺少key</p><h3 id="解决方案"><a class="markdownIt-Anchor" href="#解决方案"></a> 解决方案：</h3><p>添加key</p><p><img src="/images/pasted-2.png" alt="upload successful"></p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Thu Jul 02 2020 21:31:31 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;原因：缺少key&lt;/p&gt;&lt;h3 id=&quot;解决方案&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#解决方案&quot;&gt;&lt;/a&gt;
+      
+    
+    </summary>
+    
+    
+      <category term="React" scheme="http://Chen-yuan-yuan.github.io/categories/React/"/>
+    
+      <category term="Taro" scheme="http://Chen-yuan-yuan.github.io/categories/React/Taro/"/>
+    
+      <category term="报错" scheme="http://Chen-yuan-yuan.github.io/categories/React/Taro/%E6%8A%A5%E9%94%99/"/>
+    
+    
+      <category term="React" scheme="http://Chen-yuan-yuan.github.io/tags/React/"/>
+    
+      <category term="报错" scheme="http://Chen-yuan-yuan.github.io/tags/%E6%8A%A5%E9%94%99/"/>
+    
+      <category term="Taro" scheme="http://Chen-yuan-yuan.github.io/tags/Taro/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mac os设置文件任何人都能读写</title>
+    <link href="http://chen-yuan-yuan.github.io/2020/07/02/Mac-os%E8%AE%BE%E7%BD%AE%E6%96%87%E4%BB%B6%E4%BB%BB%E4%BD%95%E4%BA%BA%E9%83%BD%E8%83%BD%E8%AF%BB%E5%86%99/"/>
+    <id>http://chen-yuan-yuan.github.io/2020/07/02/Mac-os%E8%AE%BE%E7%BD%AE%E6%96%87%E4%BB%B6%E4%BB%BB%E4%BD%95%E4%BA%BA%E9%83%BD%E8%83%BD%E8%AF%BB%E5%86%99/</id>
+    <published>2020-07-02T10:21:00.000Z</published>
+    <updated>2020-07-02T10:25:16.242Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Thu Jul 02 2020 18:25:16 GMT+0800 (GMT+08:00) --><h3 id="概述"><a class="markdownIt-Anchor" href="#概述"></a> 概述：</h3><p>有时候用npm新建一个项目，但是打开之后没有权限读写，每次都要输入密码。很烦人。</p><h3 id="解决方案"><a class="markdownIt-Anchor" href="#解决方案"></a> 解决方案：</h3><p>命令：sudo chmod -R 0777 文件路径</p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Thu Jul 02 2020 18:25:16 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;概述&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#概述&quot;&gt;&lt;/a&gt; 概述：&lt;/h3&gt;&lt;p&gt;有时候用npm
+      
+    
+    </summary>
+    
+    
+      <category term="Mac os" scheme="http://Chen-yuan-yuan.github.io/categories/Mac-os/"/>
+    
+    
+      <category term="Mac os" scheme="http://Chen-yuan-yuan.github.io/tags/Mac-os/"/>
+    
+  </entry>
   
   <entry>
     <title>小程序云函数 Error: errCode: -404011 cloud function execution error</title>
@@ -107,15 +167,15 @@
     <link href="http://chen-yuan-yuan.github.io/2020/06/29/centos7-%E5%85%B3%E9%97%AD%E9%98%B2%E7%81%AB%E5%A2%99/"/>
     <id>http://chen-yuan-yuan.github.io/2020/06/29/centos7-%E5%85%B3%E9%97%AD%E9%98%B2%E7%81%AB%E5%A2%99/</id>
     <published>2020-06-29T12:37:00.000Z</published>
-    <updated>2020-07-01T19:38:49.059Z</updated>
+    <updated>2020-07-02T10:26:17.135Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Thu Jul 02 2020 04:32:12 GMT+0800 (GMT+08:00) --><h3 id="查看"><a class="markdownIt-Anchor" href="#查看"></a> 查看</h3><p>systemctl status firewalld.service</p><h3 id="关闭"><a class="markdownIt-Anchor" href="#关闭"></a> 关闭</h3><p>systemctl stop firewalld.service</p><h3 id="永久关闭"><a class="markdownIt-Anchor" href="#永久关闭"></a> 永久关闭</h3><p>systemctl disable firewalld.service</p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Thu Jul 02 2020 18:26:17 GMT+0800 (GMT+08:00) --><h3 id="查看"><a class="markdownIt-Anchor" href="#查看"></a> 查看</h3><p>systemctl status firewalld.service</p><h3 id="关闭"><a class="markdownIt-Anchor" href="#关闭"></a> 关闭</h3><p>systemctl stop firewalld.service</p><h3 id="永久关闭"><a class="markdownIt-Anchor" href="#永久关闭"></a> 永久关闭</h3><p>systemctl disable firewalld.service</p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Thu Jul 02 2020 04:32:12 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;查看&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#查看&quot;&gt;&lt;/a&gt; 查看&lt;/h3&gt;&lt;p&gt;systemct
+        &lt;!-- build time:Thu Jul 02 2020 18:26:17 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;查看&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#查看&quot;&gt;&lt;/a&gt; 查看&lt;/h3&gt;&lt;p&gt;systemct
       
     
     </summary>
@@ -123,10 +183,6 @@
     
       <category term="centos7" scheme="http://Chen-yuan-yuan.github.io/categories/centos7/"/>
     
-      <category term="系统" scheme="http://Chen-yuan-yuan.github.io/categories/centos7/%E7%B3%BB%E7%BB%9F/"/>
-    
-    
-      <category term="系统" scheme="http://Chen-yuan-yuan.github.io/tags/%E7%B3%BB%E7%BB%9F/"/>
     
       <category term="centos7" scheme="http://Chen-yuan-yuan.github.io/tags/centos7/"/>
     
@@ -223,15 +279,15 @@
     <link href="http://chen-yuan-yuan.github.io/2019/06/27/Windows%E6%8B%BF%E5%87%BA%E6%A1%8C%E9%9D%A2%E5%9B%BE%E6%A0%87/"/>
     <id>http://chen-yuan-yuan.github.io/2019/06/27/Windows%E6%8B%BF%E5%87%BA%E6%A1%8C%E9%9D%A2%E5%9B%BE%E6%A0%87/</id>
     <published>2019-06-27T10:14:00.000Z</published>
-    <updated>2020-07-01T19:36:26.145Z</updated>
+    <updated>2020-07-02T10:26:05.917Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Thu Jul 02 2020 04:32:12 GMT+0800 (GMT+08:00) --><h3 id="在终端输入"><a class="markdownIt-Anchor" href="#在终端输入"></a> 在终端输入：</h3><p>rundll32.exe shell32.dll,Control_RunDLL desk.cpl,0</p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Thu Jul 02 2020 18:26:07 GMT+0800 (GMT+08:00) --><h3 id="在终端输入"><a class="markdownIt-Anchor" href="#在终端输入"></a> 在终端输入：</h3><p>rundll32.exe shell32.dll,Control_RunDLL desk.cpl,0</p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Thu Jul 02 2020 04:32:12 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;在终端输入&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#在终端输入&quot;&gt;&lt;/a&gt; 在终端输入：&lt;/h3&gt;&lt;
+        &lt;!-- build time:Thu Jul 02 2020 18:26:07 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;在终端输入&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#在终端输入&quot;&gt;&lt;/a&gt; 在终端输入：&lt;/h3&gt;&lt;
       
     
     </summary>
@@ -239,12 +295,8 @@
     
       <category term="Windows" scheme="http://Chen-yuan-yuan.github.io/categories/Windows/"/>
     
-      <category term="系统" scheme="http://Chen-yuan-yuan.github.io/categories/Windows/%E7%B3%BB%E7%BB%9F/"/>
-    
     
       <category term="Windows" scheme="http://Chen-yuan-yuan.github.io/tags/Windows/"/>
-    
-      <category term="系统" scheme="http://Chen-yuan-yuan.github.io/tags/%E7%B3%BB%E7%BB%9F/"/>
     
   </entry>
   
@@ -513,28 +565,6 @@
       <category term="GitHub" scheme="http://Chen-yuan-yuan.github.io/tags/GitHub/"/>
     
       <category term="Hexo" scheme="http://Chen-yuan-yuan.github.io/tags/Hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://chen-yuan-yuan.github.io/2018/06/22/hello-world/"/>
-    <id>http://chen-yuan-yuan.github.io/2018/06/22/hello-world/</id>
-    <published>2018-06-22T10:50:00.000Z</published>
-    <updated>2020-06-23T11:02:49.203Z</updated>
-    
-    <content type="html"><![CDATA[<!-- build time:Thu Jul 02 2020 04:32:12 GMT+0800 (GMT+08:00) --><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="quick-start"><a class="markdownIt-Anchor" href="#quick-start"></a> Quick Start</h2><h3 id="create-a-new-post"><a class="markdownIt-Anchor" href="#create-a-new-post"></a> Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="run-server"><a class="markdownIt-Anchor" href="#run-server"></a> Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="generate-static-files"><a class="markdownIt-Anchor" href="#generate-static-files"></a> Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="deploy-to-remote-sites"><a class="markdownIt-Anchor" href="#deploy-to-remote-sites"></a> Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p><!-- rebuild by neat -->]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Thu Jul 02 2020 04:32:12 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hex
-      
-    
-    </summary>
-    
-    
     
   </entry>
   
