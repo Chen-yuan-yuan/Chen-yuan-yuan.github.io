@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://chen-yuan-yuan.github.io/"/>
+  <link href="http://182.92.240.87/"/>
   <updated>2020-07-09T18:56:37.475Z</updated>
-  <id>http://chen-yuan-yuan.github.io/</id>
+  <id>http://182.92.240.87/</id>
   
   <author>
     <name>陈园园</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>微信小程序：json数据{“0”:“a”}的处理</title>
-    <link href="http://chen-yuan-yuan.github.io/2020/07/09/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%EF%BC%9Ajson%E6%95%B0%E6%8D%AE-%E2%80%9C0%E2%80%9D-%E2%80%9Ca%E2%80%9D-%E7%9A%84%E5%A4%84%E7%90%86/"/>
-    <id>http://chen-yuan-yuan.github.io/2020/07/09/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%EF%BC%9Ajson%E6%95%B0%E6%8D%AE-%E2%80%9C0%E2%80%9D-%E2%80%9Ca%E2%80%9D-%E7%9A%84%E5%A4%84%E7%90%86/</id>
+    <link href="http://182.92.240.87/2020/07/09/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%EF%BC%9Ajson%E6%95%B0%E6%8D%AE-%E2%80%9C0%E2%80%9D-%E2%80%9Ca%E2%80%9D-%E7%9A%84%E5%A4%84%E7%90%86/"/>
+    <id>http://182.92.240.87/2020/07/09/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%EF%BC%9Ajson%E6%95%B0%E6%8D%AE-%E2%80%9C0%E2%80%9D-%E2%80%9Ca%E2%80%9D-%E7%9A%84%E5%A4%84%E7%90%86/</id>
     <published>2020-07-09T15:27:00.000Z</published>
     <updated>2020-07-09T18:56:37.475Z</updated>
     
@@ -35,17 +35,17 @@
     </summary>
     
     
-      <category term="微信小程序" scheme="http://chen-yuan-yuan.github.io/categories/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+      <category term="微信小程序" scheme="http://182.92.240.87/categories/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
     
     
-      <category term="微信小程序" scheme="http://chen-yuan-yuan.github.io/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+      <category term="微信小程序" scheme="http://182.92.240.87/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
     
   </entry>
   
   <entry>
     <title>vue使用高德地图定位</title>
-    <link href="http://chen-yuan-yuan.github.io/2020/07/05/vue%E4%BD%BF%E7%94%A8%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9B%BE%E5%AE%9A%E4%BD%8D/"/>
-    <id>http://chen-yuan-yuan.github.io/2020/07/05/vue%E4%BD%BF%E7%94%A8%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9B%BE%E5%AE%9A%E4%BD%8D/</id>
+    <link href="http://182.92.240.87/2020/07/05/vue%E4%BD%BF%E7%94%A8%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9B%BE%E5%AE%9A%E4%BD%8D/"/>
+    <id>http://182.92.240.87/2020/07/05/vue%E4%BD%BF%E7%94%A8%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9B%BE%E5%AE%9A%E4%BD%8D/</id>
     <published>2020-07-05T09:34:00.000Z</published>
     <updated>2020-07-05T09:42:30.682Z</updated>
     
@@ -61,21 +61,21 @@
     </summary>
     
     
-      <category term="Vue" scheme="http://chen-yuan-yuan.github.io/categories/Vue/"/>
+      <category term="Vue" scheme="http://182.92.240.87/categories/Vue/"/>
     
-      <category term="高德地图" scheme="http://chen-yuan-yuan.github.io/categories/Vue/%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9B%BE/"/>
+      <category term="高德地图" scheme="http://182.92.240.87/categories/Vue/%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9B%BE/"/>
     
     
-      <category term="Vue" scheme="http://chen-yuan-yuan.github.io/tags/Vue/"/>
+      <category term="Vue" scheme="http://182.92.240.87/tags/Vue/"/>
     
-      <category term="高德地图" scheme="http://chen-yuan-yuan.github.io/tags/%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9B%BE/"/>
+      <category term="高德地图" scheme="http://182.92.240.87/tags/%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9B%BE/"/>
     
   </entry>
   
   <entry>
     <title>npm,cnpm和yarn的区别</title>
-    <link href="http://chen-yuan-yuan.github.io/2020/07/05/npm-cnpm%E5%92%8Cyarn%E7%9A%84%E5%8C%BA%E5%88%AB/"/>
-    <id>http://chen-yuan-yuan.github.io/2020/07/05/npm-cnpm%E5%92%8Cyarn%E7%9A%84%E5%8C%BA%E5%88%AB/</id>
+    <link href="http://182.92.240.87/2020/07/05/npm-cnpm%E5%92%8Cyarn%E7%9A%84%E5%8C%BA%E5%88%AB/"/>
+    <id>http://182.92.240.87/2020/07/05/npm-cnpm%E5%92%8Cyarn%E7%9A%84%E5%8C%BA%E5%88%AB/</id>
     <published>2020-07-04T18:03:00.000Z</published>
     <updated>2020-07-04T18:08:15.037Z</updated>
     
@@ -91,17 +91,17 @@
     </summary>
     
     
-      <category term="包管理工具" scheme="http://chen-yuan-yuan.github.io/categories/%E5%8C%85%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/"/>
+      <category term="包管理工具" scheme="http://182.92.240.87/categories/%E5%8C%85%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/"/>
     
     
-      <category term="包管理工具" scheme="http://chen-yuan-yuan.github.io/tags/%E5%8C%85%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/"/>
+      <category term="包管理工具" scheme="http://182.92.240.87/tags/%E5%8C%85%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
   <entry>
     <title>清除项目的git信息</title>
-    <link href="http://chen-yuan-yuan.github.io/2020/07/05/%E6%B8%85%E9%99%A4%E9%A1%B9%E7%9B%AE%E7%9A%84git%E4%BF%A1%E6%81%AF/"/>
-    <id>http://chen-yuan-yuan.github.io/2020/07/05/%E6%B8%85%E9%99%A4%E9%A1%B9%E7%9B%AE%E7%9A%84git%E4%BF%A1%E6%81%AF/</id>
+    <link href="http://182.92.240.87/2020/07/05/%E6%B8%85%E9%99%A4%E9%A1%B9%E7%9B%AE%E7%9A%84git%E4%BF%A1%E6%81%AF/"/>
+    <id>http://182.92.240.87/2020/07/05/%E6%B8%85%E9%99%A4%E9%A1%B9%E7%9B%AE%E7%9A%84git%E4%BF%A1%E6%81%AF/</id>
     <published>2020-07-04T16:59:00.000Z</published>
     <updated>2020-07-04T17:02:50.013Z</updated>
     
@@ -117,17 +117,17 @@
     </summary>
     
     
-      <category term="Git" scheme="http://chen-yuan-yuan.github.io/categories/Git/"/>
+      <category term="Git" scheme="http://182.92.240.87/categories/Git/"/>
     
     
-      <category term="Git" scheme="http://chen-yuan-yuan.github.io/tags/Git/"/>
+      <category term="Git" scheme="http://182.92.240.87/tags/Git/"/>
     
   </entry>
   
   <entry>
     <title>Mac os设置文件任何人都能读写</title>
-    <link href="http://chen-yuan-yuan.github.io/2020/07/02/Mac-os%E8%AE%BE%E7%BD%AE%E6%96%87%E4%BB%B6%E4%BB%BB%E4%BD%95%E4%BA%BA%E9%83%BD%E8%83%BD%E8%AF%BB%E5%86%99/"/>
-    <id>http://chen-yuan-yuan.github.io/2020/07/02/Mac-os%E8%AE%BE%E7%BD%AE%E6%96%87%E4%BB%B6%E4%BB%BB%E4%BD%95%E4%BA%BA%E9%83%BD%E8%83%BD%E8%AF%BB%E5%86%99/</id>
+    <link href="http://182.92.240.87/2020/07/02/Mac-os%E8%AE%BE%E7%BD%AE%E6%96%87%E4%BB%B6%E4%BB%BB%E4%BD%95%E4%BA%BA%E9%83%BD%E8%83%BD%E8%AF%BB%E5%86%99/"/>
+    <id>http://182.92.240.87/2020/07/02/Mac-os%E8%AE%BE%E7%BD%AE%E6%96%87%E4%BB%B6%E4%BB%BB%E4%BD%95%E4%BA%BA%E9%83%BD%E8%83%BD%E8%AF%BB%E5%86%99/</id>
     <published>2020-07-02T10:21:00.000Z</published>
     <updated>2020-07-02T10:25:16.242Z</updated>
     
@@ -143,17 +143,17 @@
     </summary>
     
     
-      <category term="Mac os" scheme="http://chen-yuan-yuan.github.io/categories/Mac-os/"/>
+      <category term="Mac os" scheme="http://182.92.240.87/categories/Mac-os/"/>
     
     
-      <category term="Mac os" scheme="http://chen-yuan-yuan.github.io/tags/Mac-os/"/>
+      <category term="Mac os" scheme="http://182.92.240.87/tags/Mac-os/"/>
     
   </entry>
   
   <entry>
     <title>小程序云函数 Error: errCode: -404011 cloud function execution error</title>
-    <link href="http://chen-yuan-yuan.github.io/2020/07/01/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%BA%91%E5%87%BD%E6%95%B0-Error-errCode-404011-cloud-function-execution-error/"/>
-    <id>http://chen-yuan-yuan.github.io/2020/07/01/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%BA%91%E5%87%BD%E6%95%B0-Error-errCode-404011-cloud-function-execution-error/</id>
+    <link href="http://182.92.240.87/2020/07/01/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%BA%91%E5%87%BD%E6%95%B0-Error-errCode-404011-cloud-function-execution-error/"/>
+    <id>http://182.92.240.87/2020/07/01/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%BA%91%E5%87%BD%E6%95%B0-Error-errCode-404011-cloud-function-execution-error/</id>
     <published>2020-06-30T22:18:00.000Z</published>
     <updated>2020-07-01T19:40:24.309Z</updated>
     
@@ -169,21 +169,21 @@
     </summary>
     
     
-      <category term="报错" scheme="http://chen-yuan-yuan.github.io/categories/%E6%8A%A5%E9%94%99/"/>
+      <category term="报错" scheme="http://182.92.240.87/categories/%E6%8A%A5%E9%94%99/"/>
     
-      <category term="微信小程序" scheme="http://chen-yuan-yuan.github.io/categories/%E6%8A%A5%E9%94%99/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+      <category term="微信小程序" scheme="http://182.92.240.87/categories/%E6%8A%A5%E9%94%99/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
     
     
-      <category term="报错" scheme="http://chen-yuan-yuan.github.io/tags/%E6%8A%A5%E9%94%99/"/>
+      <category term="报错" scheme="http://182.92.240.87/tags/%E6%8A%A5%E9%94%99/"/>
     
-      <category term="微信小程序" scheme="http://chen-yuan-yuan.github.io/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+      <category term="微信小程序" scheme="http://182.92.240.87/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
     
   </entry>
   
   <entry>
     <title>微信小程序报错：Cannot find module &#39;wx-server-sdk&#39;</title>
-    <link href="http://chen-yuan-yuan.github.io/2020/07/01/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%8A%A5%E9%94%99%EF%BC%9ACannot-find-module-wx-server-sdk/"/>
-    <id>http://chen-yuan-yuan.github.io/2020/07/01/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%8A%A5%E9%94%99%EF%BC%9ACannot-find-module-wx-server-sdk/</id>
+    <link href="http://182.92.240.87/2020/07/01/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%8A%A5%E9%94%99%EF%BC%9ACannot-find-module-wx-server-sdk/"/>
+    <id>http://182.92.240.87/2020/07/01/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%8A%A5%E9%94%99%EF%BC%9ACannot-find-module-wx-server-sdk/</id>
     <published>2020-06-30T17:42:00.000Z</published>
     <updated>2020-07-01T19:39:45.165Z</updated>
     
@@ -199,21 +199,21 @@
     </summary>
     
     
-      <category term="报错" scheme="http://chen-yuan-yuan.github.io/categories/%E6%8A%A5%E9%94%99/"/>
+      <category term="报错" scheme="http://182.92.240.87/categories/%E6%8A%A5%E9%94%99/"/>
     
-      <category term="微信小程序" scheme="http://chen-yuan-yuan.github.io/categories/%E6%8A%A5%E9%94%99/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+      <category term="微信小程序" scheme="http://182.92.240.87/categories/%E6%8A%A5%E9%94%99/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
     
     
-      <category term="报错" scheme="http://chen-yuan-yuan.github.io/tags/%E6%8A%A5%E9%94%99/"/>
+      <category term="报错" scheme="http://182.92.240.87/tags/%E6%8A%A5%E9%94%99/"/>
     
-      <category term="微信小程序" scheme="http://chen-yuan-yuan.github.io/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+      <category term="微信小程序" scheme="http://182.92.240.87/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
     
   </entry>
   
   <entry>
     <title>hexo启动报 error：13</title>
-    <link href="http://chen-yuan-yuan.github.io/2020/07/01/hexo%E5%90%AF%E5%8A%A8%E6%8A%A5-error%EF%BC%9A13/"/>
-    <id>http://chen-yuan-yuan.github.io/2020/07/01/hexo%E5%90%AF%E5%8A%A8%E6%8A%A5-error%EF%BC%9A13/</id>
+    <link href="http://182.92.240.87/2020/07/01/hexo%E5%90%AF%E5%8A%A8%E6%8A%A5-error%EF%BC%9A13/"/>
+    <id>http://182.92.240.87/2020/07/01/hexo%E5%90%AF%E5%8A%A8%E6%8A%A5-error%EF%BC%9A13/</id>
     <published>2020-06-30T17:23:00.000Z</published>
     <updated>2020-07-01T19:42:23.449Z</updated>
     
@@ -229,17 +229,17 @@
     </summary>
     
     
-      <category term="报错" scheme="http://chen-yuan-yuan.github.io/categories/%E6%8A%A5%E9%94%99/"/>
+      <category term="报错" scheme="http://182.92.240.87/categories/%E6%8A%A5%E9%94%99/"/>
     
     
-      <category term="报错" scheme="http://chen-yuan-yuan.github.io/tags/%E6%8A%A5%E9%94%99/"/>
+      <category term="报错" scheme="http://182.92.240.87/tags/%E6%8A%A5%E9%94%99/"/>
     
   </entry>
   
   <entry>
     <title>centos7 关闭防火墙</title>
-    <link href="http://chen-yuan-yuan.github.io/2020/06/29/centos7-%E5%85%B3%E9%97%AD%E9%98%B2%E7%81%AB%E5%A2%99/"/>
-    <id>http://chen-yuan-yuan.github.io/2020/06/29/centos7-%E5%85%B3%E9%97%AD%E9%98%B2%E7%81%AB%E5%A2%99/</id>
+    <link href="http://182.92.240.87/2020/06/29/centos7-%E5%85%B3%E9%97%AD%E9%98%B2%E7%81%AB%E5%A2%99/"/>
+    <id>http://182.92.240.87/2020/06/29/centos7-%E5%85%B3%E9%97%AD%E9%98%B2%E7%81%AB%E5%A2%99/</id>
     <published>2020-06-29T12:37:00.000Z</published>
     <updated>2020-07-02T10:26:17.135Z</updated>
     
@@ -255,17 +255,17 @@
     </summary>
     
     
-      <category term="centos7" scheme="http://chen-yuan-yuan.github.io/categories/centos7/"/>
+      <category term="centos7" scheme="http://182.92.240.87/categories/centos7/"/>
     
     
-      <category term="centos7" scheme="http://chen-yuan-yuan.github.io/tags/centos7/"/>
+      <category term="centos7" scheme="http://182.92.240.87/tags/centos7/"/>
     
   </entry>
   
   <entry>
     <title>前端三大框架的启动命令</title>
-    <link href="http://chen-yuan-yuan.github.io/2020/06/28/%E5%89%8D%E7%AB%AF%E4%B8%89%E5%A4%A7%E6%A1%86%E6%9E%B6%E7%9A%84%E5%90%AF%E5%8A%A8%E5%91%BD%E4%BB%A4/"/>
-    <id>http://chen-yuan-yuan.github.io/2020/06/28/%E5%89%8D%E7%AB%AF%E4%B8%89%E5%A4%A7%E6%A1%86%E6%9E%B6%E7%9A%84%E5%90%AF%E5%8A%A8%E5%91%BD%E4%BB%A4/</id>
+    <link href="http://182.92.240.87/2020/06/28/%E5%89%8D%E7%AB%AF%E4%B8%89%E5%A4%A7%E6%A1%86%E6%9E%B6%E7%9A%84%E5%90%AF%E5%8A%A8%E5%91%BD%E4%BB%A4/"/>
+    <id>http://182.92.240.87/2020/06/28/%E5%89%8D%E7%AB%AF%E4%B8%89%E5%A4%A7%E6%A1%86%E6%9E%B6%E7%9A%84%E5%90%AF%E5%8A%A8%E5%91%BD%E4%BB%A4/</id>
     <published>2020-06-28T11:55:00.000Z</published>
     <updated>2020-07-01T19:44:54.545Z</updated>
     
@@ -281,25 +281,25 @@
     </summary>
     
     
-      <category term="Vue" scheme="http://chen-yuan-yuan.github.io/categories/Vue/"/>
+      <category term="Vue" scheme="http://182.92.240.87/categories/Vue/"/>
     
-      <category term="React" scheme="http://chen-yuan-yuan.github.io/categories/Vue/React/"/>
+      <category term="React" scheme="http://182.92.240.87/categories/Vue/React/"/>
     
-      <category term="Angular" scheme="http://chen-yuan-yuan.github.io/categories/Vue/React/Angular/"/>
+      <category term="Angular" scheme="http://182.92.240.87/categories/Vue/React/Angular/"/>
     
     
-      <category term="Vue" scheme="http://chen-yuan-yuan.github.io/tags/Vue/"/>
+      <category term="Vue" scheme="http://182.92.240.87/tags/Vue/"/>
     
-      <category term="React" scheme="http://chen-yuan-yuan.github.io/tags/React/"/>
+      <category term="React" scheme="http://182.92.240.87/tags/React/"/>
     
-      <category term="Angular" scheme="http://chen-yuan-yuan.github.io/tags/Angular/"/>
+      <category term="Angular" scheme="http://182.92.240.87/tags/Angular/"/>
     
   </entry>
   
   <entry>
     <title>Mac os搭建Angular项目</title>
-    <link href="http://chen-yuan-yuan.github.io/2020/06/24/%E6%90%AD%E5%BB%BAAngular%E9%A1%B9%E7%9B%AE/"/>
-    <id>http://chen-yuan-yuan.github.io/2020/06/24/%E6%90%AD%E5%BB%BAAngular%E9%A1%B9%E7%9B%AE/</id>
+    <link href="http://182.92.240.87/2020/06/24/%E6%90%AD%E5%BB%BAAngular%E9%A1%B9%E7%9B%AE/"/>
+    <id>http://182.92.240.87/2020/06/24/%E6%90%AD%E5%BB%BAAngular%E9%A1%B9%E7%9B%AE/</id>
     <published>2020-06-24T13:19:00.000Z</published>
     <updated>2020-07-01T19:45:24.937Z</updated>
     
@@ -315,17 +315,17 @@
     </summary>
     
     
-      <category term="Angula" scheme="http://chen-yuan-yuan.github.io/categories/Angula/"/>
+      <category term="Angula" scheme="http://182.92.240.87/categories/Angula/"/>
     
     
-      <category term="Angular" scheme="http://chen-yuan-yuan.github.io/tags/Angular/"/>
+      <category term="Angular" scheme="http://182.92.240.87/tags/Angular/"/>
     
   </entry>
   
   <entry>
     <title>Mac os创建React项目（windows同）</title>
-    <link href="http://chen-yuan-yuan.github.io/2019/11/13/%E5%88%9B%E5%BB%BAReact%E9%A1%B9%E7%9B%AE/"/>
-    <id>http://chen-yuan-yuan.github.io/2019/11/13/%E5%88%9B%E5%BB%BAReact%E9%A1%B9%E7%9B%AE/</id>
+    <link href="http://182.92.240.87/2019/11/13/%E5%88%9B%E5%BB%BAReact%E9%A1%B9%E7%9B%AE/"/>
+    <id>http://182.92.240.87/2019/11/13/%E5%88%9B%E5%BB%BAReact%E9%A1%B9%E7%9B%AE/</id>
     <published>2019-11-13T09:02:00.000Z</published>
     <updated>2020-07-01T19:43:42.915Z</updated>
     
@@ -341,17 +341,17 @@
     </summary>
     
     
-      <category term="React" scheme="http://chen-yuan-yuan.github.io/categories/React/"/>
+      <category term="React" scheme="http://182.92.240.87/categories/React/"/>
     
     
-      <category term="React" scheme="http://chen-yuan-yuan.github.io/tags/React/"/>
+      <category term="React" scheme="http://182.92.240.87/tags/React/"/>
     
   </entry>
   
   <entry>
     <title>Windows拿出桌面图标</title>
-    <link href="http://chen-yuan-yuan.github.io/2019/06/27/Windows%E6%8B%BF%E5%87%BA%E6%A1%8C%E9%9D%A2%E5%9B%BE%E6%A0%87/"/>
-    <id>http://chen-yuan-yuan.github.io/2019/06/27/Windows%E6%8B%BF%E5%87%BA%E6%A1%8C%E9%9D%A2%E5%9B%BE%E6%A0%87/</id>
+    <link href="http://182.92.240.87/2019/06/27/Windows%E6%8B%BF%E5%87%BA%E6%A1%8C%E9%9D%A2%E5%9B%BE%E6%A0%87/"/>
+    <id>http://182.92.240.87/2019/06/27/Windows%E6%8B%BF%E5%87%BA%E6%A1%8C%E9%9D%A2%E5%9B%BE%E6%A0%87/</id>
     <published>2019-06-27T10:14:00.000Z</published>
     <updated>2020-07-02T10:26:05.917Z</updated>
     
@@ -367,17 +367,17 @@
     </summary>
     
     
-      <category term="Windows" scheme="http://chen-yuan-yuan.github.io/categories/Windows/"/>
+      <category term="Windows" scheme="http://182.92.240.87/categories/Windows/"/>
     
     
-      <category term="Windows" scheme="http://chen-yuan-yuan.github.io/tags/Windows/"/>
+      <category term="Windows" scheme="http://182.92.240.87/tags/Windows/"/>
     
   </entry>
   
   <entry>
     <title>MySql for mac拥有者发生改变-解决方案</title>
-    <link href="http://chen-yuan-yuan.github.io/2019/06/24/MySql-for-mac%E6%8B%A5%E6%9C%89%E8%80%85%E5%8F%91%E7%94%9F%E6%94%B9%E5%8F%98-%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/"/>
-    <id>http://chen-yuan-yuan.github.io/2019/06/24/MySql-for-mac%E6%8B%A5%E6%9C%89%E8%80%85%E5%8F%91%E7%94%9F%E6%94%B9%E5%8F%98-%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</id>
+    <link href="http://182.92.240.87/2019/06/24/MySql-for-mac%E6%8B%A5%E6%9C%89%E8%80%85%E5%8F%91%E7%94%9F%E6%94%B9%E5%8F%98-%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/"/>
+    <id>http://182.92.240.87/2019/06/24/MySql-for-mac%E6%8B%A5%E6%9C%89%E8%80%85%E5%8F%91%E7%94%9F%E6%94%B9%E5%8F%98-%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</id>
     <published>2019-06-24T10:37:00.000Z</published>
     <updated>2020-07-01T19:35:43.142Z</updated>
     
@@ -393,17 +393,17 @@
     </summary>
     
     
-      <category term="MySql" scheme="http://chen-yuan-yuan.github.io/categories/MySql/"/>
+      <category term="MySql" scheme="http://182.92.240.87/categories/MySql/"/>
     
     
-      <category term="MySql" scheme="http://chen-yuan-yuan.github.io/tags/MySql/"/>
+      <category term="MySql" scheme="http://182.92.240.87/tags/MySql/"/>
     
   </entry>
   
   <entry>
     <title>Mac os配置Tomcat</title>
-    <link href="http://chen-yuan-yuan.github.io/2019/06/24/%E9%85%8D%E7%BD%AETomcat/"/>
-    <id>http://chen-yuan-yuan.github.io/2019/06/24/%E9%85%8D%E7%BD%AETomcat/</id>
+    <link href="http://182.92.240.87/2019/06/24/%E9%85%8D%E7%BD%AETomcat/"/>
+    <id>http://182.92.240.87/2019/06/24/%E9%85%8D%E7%BD%AETomcat/</id>
     <published>2019-06-24T10:25:00.000Z</published>
     <updated>2020-07-01T19:35:23.075Z</updated>
     
@@ -419,17 +419,17 @@
     </summary>
     
     
-      <category term="Tomcat" scheme="http://chen-yuan-yuan.github.io/categories/Tomcat/"/>
+      <category term="Tomcat" scheme="http://182.92.240.87/categories/Tomcat/"/>
     
     
-      <category term="Tomcat" scheme="http://chen-yuan-yuan.github.io/tags/Tomcat/"/>
+      <category term="Tomcat" scheme="http://182.92.240.87/tags/Tomcat/"/>
     
   </entry>
   
   <entry>
     <title>Mac 配置Vue环境</title>
-    <link href="http://chen-yuan-yuan.github.io/2019/06/24/%E9%85%8D%E7%BD%AEVue%E7%8E%AF%E5%A2%83/"/>
-    <id>http://chen-yuan-yuan.github.io/2019/06/24/%E9%85%8D%E7%BD%AEVue%E7%8E%AF%E5%A2%83/</id>
+    <link href="http://182.92.240.87/2019/06/24/%E9%85%8D%E7%BD%AEVue%E7%8E%AF%E5%A2%83/"/>
+    <id>http://182.92.240.87/2019/06/24/%E9%85%8D%E7%BD%AEVue%E7%8E%AF%E5%A2%83/</id>
     <published>2019-06-24T10:17:00.000Z</published>
     <updated>2020-07-01T19:34:49.701Z</updated>
     
@@ -445,17 +445,17 @@
     </summary>
     
     
-      <category term="Vue" scheme="http://chen-yuan-yuan.github.io/categories/Vue/"/>
+      <category term="Vue" scheme="http://182.92.240.87/categories/Vue/"/>
     
     
-      <category term="Vue" scheme="http://chen-yuan-yuan.github.io/tags/Vue/"/>
+      <category term="Vue" scheme="http://182.92.240.87/tags/Vue/"/>
     
   </entry>
   
   <entry>
     <title>MySql for mac中文数据出现问号</title>
-    <link href="http://chen-yuan-yuan.github.io/2019/06/21/MySql-for-mac%E4%B8%AD%E6%96%87%E6%95%B0%E6%8D%AE%E5%87%BA%E7%8E%B0%E9%97%AE%E5%8F%B7/"/>
-    <id>http://chen-yuan-yuan.github.io/2019/06/21/MySql-for-mac%E4%B8%AD%E6%96%87%E6%95%B0%E6%8D%AE%E5%87%BA%E7%8E%B0%E9%97%AE%E5%8F%B7/</id>
+    <link href="http://182.92.240.87/2019/06/21/MySql-for-mac%E4%B8%AD%E6%96%87%E6%95%B0%E6%8D%AE%E5%87%BA%E7%8E%B0%E9%97%AE%E5%8F%B7/"/>
+    <id>http://182.92.240.87/2019/06/21/MySql-for-mac%E4%B8%AD%E6%96%87%E6%95%B0%E6%8D%AE%E5%87%BA%E7%8E%B0%E9%97%AE%E5%8F%B7/</id>
     <published>2019-06-21T10:11:00.000Z</published>
     <updated>2020-07-01T19:34:00.897Z</updated>
     
@@ -471,17 +471,17 @@
     </summary>
     
     
-      <category term="MySql" scheme="http://chen-yuan-yuan.github.io/categories/MySql/"/>
+      <category term="MySql" scheme="http://182.92.240.87/categories/MySql/"/>
     
     
-      <category term="MySql" scheme="http://chen-yuan-yuan.github.io/tags/MySql/"/>
+      <category term="MySql" scheme="http://182.92.240.87/tags/MySql/"/>
     
   </entry>
   
   <entry>
     <title>Mac os终端打开MySql</title>
-    <link href="http://chen-yuan-yuan.github.io/2019/06/04/%E7%BB%88%E7%AB%AF%E6%89%93%E5%BC%80MySql/"/>
-    <id>http://chen-yuan-yuan.github.io/2019/06/04/%E7%BB%88%E7%AB%AF%E6%89%93%E5%BC%80MySql/</id>
+    <link href="http://182.92.240.87/2019/06/04/%E7%BB%88%E7%AB%AF%E6%89%93%E5%BC%80MySql/"/>
+    <id>http://182.92.240.87/2019/06/04/%E7%BB%88%E7%AB%AF%E6%89%93%E5%BC%80MySql/</id>
     <published>2019-06-04T10:03:00.000Z</published>
     <updated>2020-07-01T19:33:36.107Z</updated>
     
@@ -497,17 +497,17 @@
     </summary>
     
     
-      <category term="MySql" scheme="http://chen-yuan-yuan.github.io/categories/MySql/"/>
+      <category term="MySql" scheme="http://182.92.240.87/categories/MySql/"/>
     
     
-      <category term="MySql" scheme="http://chen-yuan-yuan.github.io/tags/MySql/"/>
+      <category term="MySql" scheme="http://182.92.240.87/tags/MySql/"/>
     
   </entry>
   
   <entry>
     <title>Tomcat for Mac端口被占用解决方案</title>
-    <link href="http://chen-yuan-yuan.github.io/2019/06/02/Tomcat-for-Mac%E7%AB%AF%E5%8F%A3%E8%A2%AB%E5%8D%A0%E7%94%A8%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/"/>
-    <id>http://chen-yuan-yuan.github.io/2019/06/02/Tomcat-for-Mac%E7%AB%AF%E5%8F%A3%E8%A2%AB%E5%8D%A0%E7%94%A8%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</id>
+    <link href="http://182.92.240.87/2019/06/02/Tomcat-for-Mac%E7%AB%AF%E5%8F%A3%E8%A2%AB%E5%8D%A0%E7%94%A8%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/"/>
+    <id>http://182.92.240.87/2019/06/02/Tomcat-for-Mac%E7%AB%AF%E5%8F%A3%E8%A2%AB%E5%8D%A0%E7%94%A8%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</id>
     <published>2019-06-02T10:00:00.000Z</published>
     <updated>2020-07-01T19:33:11.287Z</updated>
     
@@ -523,21 +523,21 @@
     </summary>
     
     
-      <category term="Tomcat" scheme="http://chen-yuan-yuan.github.io/categories/Tomcat/"/>
+      <category term="Tomcat" scheme="http://182.92.240.87/categories/Tomcat/"/>
     
-      <category term="Java" scheme="http://chen-yuan-yuan.github.io/categories/Tomcat/Java/"/>
+      <category term="Java" scheme="http://182.92.240.87/categories/Tomcat/Java/"/>
     
     
-      <category term="Tomcat" scheme="http://chen-yuan-yuan.github.io/tags/Tomcat/"/>
+      <category term="Tomcat" scheme="http://182.92.240.87/tags/Tomcat/"/>
     
-      <category term="Java" scheme="http://chen-yuan-yuan.github.io/tags/Java/"/>
+      <category term="Java" scheme="http://182.92.240.87/tags/Java/"/>
     
   </entry>
   
   <entry>
     <title>让定位的div不占位置</title>
-    <link href="http://chen-yuan-yuan.github.io/2018/09/19/%E8%AE%A9%E5%AE%9A%E4%BD%8D%E7%9A%84div%E4%B8%8D%E5%8D%A0%E4%BD%8D%E7%BD%AE/"/>
-    <id>http://chen-yuan-yuan.github.io/2018/09/19/%E8%AE%A9%E5%AE%9A%E4%BD%8D%E7%9A%84div%E4%B8%8D%E5%8D%A0%E4%BD%8D%E7%BD%AE/</id>
+    <link href="http://182.92.240.87/2018/09/19/%E8%AE%A9%E5%AE%9A%E4%BD%8D%E7%9A%84div%E4%B8%8D%E5%8D%A0%E4%BD%8D%E7%BD%AE/"/>
+    <id>http://182.92.240.87/2018/09/19/%E8%AE%A9%E5%AE%9A%E4%BD%8D%E7%9A%84div%E4%B8%8D%E5%8D%A0%E4%BD%8D%E7%BD%AE/</id>
     <published>2018-09-19T09:00:00.000Z</published>
     <updated>2020-09-19T13:44:56.357Z</updated>
     
@@ -553,10 +553,10 @@
     </summary>
     
     
-      <category term="CSS" scheme="http://chen-yuan-yuan.github.io/categories/CSS/"/>
+      <category term="CSS" scheme="http://182.92.240.87/categories/CSS/"/>
     
     
-      <category term="CSS" scheme="http://chen-yuan-yuan.github.io/tags/CSS/"/>
+      <category term="CSS" scheme="http://182.92.240.87/tags/CSS/"/>
     
   </entry>
   
