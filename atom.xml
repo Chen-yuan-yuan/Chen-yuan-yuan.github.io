@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://chen-yuan-yuan.github.io/"/>
-  <updated>2020-09-23T13:21:18.119Z</updated>
+  <updated>2020-09-23T14:34:25.699Z</updated>
   <id>http://chen-yuan-yuan.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>11</title>
+    <link href="http://chen-yuan-yuan.github.io/2020/09/23/11/"/>
+    <id>http://chen-yuan-yuan.github.io/2020/09/23/11/</id>
+    <published>2020-09-23T14:34:00.000Z</published>
+    <updated>2020-09-23T14:34:25.699Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Wed Sep 23 2020 22:34:25 GMT+0800 (GMT+08:00) --><p>1111</p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Wed Sep 23 2020 22:34:25 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;1111&lt;/p&gt;&lt;!-- rebuild by neat --&gt;
+      
+    
+    </summary>
+    
+    
+      <category term="1" scheme="http://chen-yuan-yuan.github.io/categories/1/"/>
+    
+    
+      <category term="1" scheme="http://chen-yuan-yuan.github.io/tags/1/"/>
+    
+  </entry>
   
   <entry>
     <title>上传云服务器</title>
@@ -527,36 +553,6 @@
     
     
       <category term="MySql" scheme="http://chen-yuan-yuan.github.io/tags/MySql/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Tomcat for Mac端口被占用解决方案</title>
-    <link href="http://chen-yuan-yuan.github.io/2019/06/02/Tomcat-for-Mac%E7%AB%AF%E5%8F%A3%E8%A2%AB%E5%8D%A0%E7%94%A8%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/"/>
-    <id>http://chen-yuan-yuan.github.io/2019/06/02/Tomcat-for-Mac%E7%AB%AF%E5%8F%A3%E8%A2%AB%E5%8D%A0%E7%94%A8%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</id>
-    <published>2019-06-02T10:00:00.000Z</published>
-    <updated>2020-07-01T19:33:11.287Z</updated>
-    
-    <content type="html"><![CDATA[<!-- build time:Wed Sep 23 2020 22:29:18 GMT+0800 (GMT+08:00) --><h3 id="1概述"><a class="markdownIt-Anchor" href="#1概述"></a> 1.概述</h3><p>Tomcat不正常关闭，经常会导致再启动端口时，显示端口被占用。本文分别介绍了在Windows平台和Mac平台下的解决方法。</p><h3 id="2mac平台解决方法"><a class="markdownIt-Anchor" href="#2mac平台解决方法"></a> 2.Mac平台解决方法</h3><p>查询占用8080端口的线程（如果你的端口不是8080，请自行修改）<br>终端：lsof -i:8080<br>结果如下：<br>COMMAND PID USER FD TYPE DEVICE SIZE/OFF NODE NAME<br>java 1153 chunsoft 49u IPv6 0xf78b5050ceb3fc95 0t0 TCP *:http-alt (LISTEN)</p><h3 id="3杀死占用进程"><a class="markdownIt-Anchor" href="#3杀死占用进程"></a> 3.杀死占用进程</h3><p>我对应的进程ID是1153，所有杀死该进程。<br>终端：kill -9 1153</p><h3 id="4再次重启就能正常启动了"><a class="markdownIt-Anchor" href="#4再次重启就能正常启动了"></a> 4.再次重启，就能正常启动了。</h3><!-- rebuild by neat -->]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Wed Sep 23 2020 22:29:18 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;1概述&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1概述&quot;&gt;&lt;/a&gt; 1.概述&lt;/h3&gt;&lt;p&gt;Tomc
-      
-    
-    </summary>
-    
-    
-      <category term="Tomcat" scheme="http://chen-yuan-yuan.github.io/categories/Tomcat/"/>
-    
-      <category term="Java" scheme="http://chen-yuan-yuan.github.io/categories/Tomcat/Java/"/>
-    
-    
-      <category term="Tomcat" scheme="http://chen-yuan-yuan.github.io/tags/Tomcat/"/>
-    
-      <category term="Java" scheme="http://chen-yuan-yuan.github.io/tags/Java/"/>
     
   </entry>
   
