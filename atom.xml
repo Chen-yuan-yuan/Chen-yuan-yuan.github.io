@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://chen-yuan-yuan.github.io/"/>
-  <updated>2020-09-23T15:25:15.724Z</updated>
+  <updated>2020-09-26T16:30:44.441Z</updated>
   <id>http://chen-yuan-yuan.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第二次上云服务器测试</title>
+    <link href="http://chen-yuan-yuan.github.io/2020/09/27/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%8A%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%B5%8B%E8%AF%95/"/>
+    <id>http://chen-yuan-yuan.github.io/2020/09/27/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%8A%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%B5%8B%E8%AF%95/</id>
+    <published>2020-09-26T16:30:00.000Z</published>
+    <updated>2020-09-26T16:30:44.441Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Sun Sep 27 2020 00:30:44 GMT+0800 (GMT+08:00) --><h1 id="测试"><a class="markdownIt-Anchor" href="#测试"></a> 测试</h1><p>老实说</p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Sun Sep 27 2020 00:30:44 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;测试&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#测试&quot;&gt;&lt;/a&gt; 测试&lt;/h1&gt;&lt;p&gt;老实说&lt;/p&gt;&lt;
+      
+    
+    </summary>
+    
+    
+      <category term="1" scheme="http://chen-yuan-yuan.github.io/categories/1/"/>
+    
+    
+      <category term="1" scheme="http://chen-yuan-yuan.github.io/tags/1/"/>
+    
+  </entry>
   
   <entry>
     <title>123服务器测试</title>
@@ -518,32 +544,6 @@
       
       
         &lt;!-- build time:Wed Sep 23 2020 22:29:18 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;在连接数据库的url属性中添加&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#在连接数据库的url属性中添
-      
-    
-    </summary>
-    
-    
-      <category term="MySql" scheme="http://chen-yuan-yuan.github.io/categories/MySql/"/>
-    
-    
-      <category term="MySql" scheme="http://chen-yuan-yuan.github.io/tags/MySql/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Mac os终端打开MySql</title>
-    <link href="http://chen-yuan-yuan.github.io/2019/06/04/%E7%BB%88%E7%AB%AF%E6%89%93%E5%BC%80MySql/"/>
-    <id>http://chen-yuan-yuan.github.io/2019/06/04/%E7%BB%88%E7%AB%AF%E6%89%93%E5%BC%80MySql/</id>
-    <published>2019-06-04T10:03:00.000Z</published>
-    <updated>2020-07-01T19:33:36.107Z</updated>
-    
-    <content type="html"><![CDATA[<!-- build time:Wed Sep 23 2020 22:29:18 GMT+0800 (GMT+08:00) --><h3 id="1打开终端"><a class="markdownIt-Anchor" href="#1打开终端"></a> 1.打开终端。</h3><p>sudo su 回车<br>输入：电脑密码</p><h3 id="2进入mysql的路径"><a class="markdownIt-Anchor" href="#2进入mysql的路径"></a> 2.进入MySql的路径。</h3><p>/usr/local/mysql/bin/mysql -u root -p 回车<br>输入：MySql密码</p><h3 id="3退出mysql"><a class="markdownIt-Anchor" href="#3退出mysql"></a> 3.退出MySql。</h3><p>输入：quit 回车</p><!-- rebuild by neat -->]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Wed Sep 23 2020 22:29:18 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;1打开终端&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1打开终端&quot;&gt;&lt;/a&gt; 1.打开终端。&lt;/h3&gt;
       
     
     </summary>
