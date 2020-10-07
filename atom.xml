@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.chen-yuan-yuan.com/"/>
-  <updated>2020-09-26T17:39:13.402Z</updated>
+  <updated>2020-10-07T16:18:24.969Z</updated>
   <id>http://www.chen-yuan-yuan.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>网站http转https</title>
+    <link href="http://www.chen-yuan-yuan.com/2020/10/07/%E7%BD%91%E7%AB%99http%E8%BD%AChttps/"/>
+    <id>http://www.chen-yuan-yuan.com/2020/10/07/%E7%BD%91%E7%AB%99http%E8%BD%AChttps/</id>
+    <published>2020-10-07T15:45:00.000Z</published>
+    <updated>2020-10-07T16:18:24.969Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Thu Oct 08 2020 00:18:25 GMT+0800 (GMT+08:00) --><h3 id="1购买服务器和域名"><a class="markdownIt-Anchor" href="#1购买服务器和域名"></a> 1.购买服务器和域名</h3><blockquote><p>略</p></blockquote><h3 id="2安装nginx"><a class="markdownIt-Anchor" href="#2安装nginx"></a> 2.安装Nginx</h3><blockquote><p>略</p></blockquote><h3 id="3下载ssl证书"><a class="markdownIt-Anchor" href="#3下载ssl证书"></a> 3.下载SSL证书</h3><p><img src="/images/pasted-6.png" alt="upload successful"></p><h3 id="4上传证书到服务器"><a class="markdownIt-Anchor" href="#4上传证书到服务器"></a> 4.上传证书到服务器</h3><p><img src="/images/pasted-8.png" alt="upload successful"></p><h3 id="5修改nginx配置"><a class="markdownIt-Anchor" href="#5修改nginx配置"></a> 5.修改Nginx配置</h3><p><img src="/images/pasted-7.png" alt="upload successful"></p><h3 id="6重启nginx"><a class="markdownIt-Anchor" href="#6重启nginx"></a> 6.重启Nginx</h3><blockquote><p>在nginx目录下<br>输入./sbin/nginx -s reload</p></blockquote><h3 id="7报错以及解决方案网上搜一大堆"><a class="markdownIt-Anchor" href="#7报错以及解决方案网上搜一大堆"></a> 7.报错以及解决方案(网上搜一大堆)</h3><blockquote><p>unknown directive ssl错误：</p></blockquote><ol><li>安装openssl</li></ol><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">yum -y install openssl openssl-devel</span><br></pre></td></tr></table></figure><ol start="2"><li>重新添加这个ssl模块</li></ol><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">.&#x2F;configure --with-http_ssl_module</span><br></pre></td></tr></table></figure><ol start="3"><li>安装环境或软件</li></ol><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">.&#x2F;configure</span><br></pre></td></tr></table></figure><ol start="4"><li>编译和重新安装</li></ol><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">make &amp;&amp; make install</span><br></pre></td></tr></table></figure><ol start="5"><li>在我们执行完做命令后，我们可以查看到在nginx解压目录下，objs文件夹中多了一个nginx的文件，这个就是新版本的程序了。首先我们把之前的nginx先备份一下，然后把新的程序复制过去覆盖之前的即可。</li></ol><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cp &#x2F;usr&#x2F;local&#x2F;nginx&#x2F;sbin&#x2F;nginx &#x2F;usr&#x2F;local&#x2F;nginx&#x2F;sbin&#x2F;nginx.bak</span><br></pre></td></tr></table></figure><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&gt; cp objs&#x2F;nginx &#x2F;usr&#x2F;local&#x2F;nginx&#x2F;sbin&#x2F;nginx</span><br></pre></td></tr></table></figure><ol start="6"><li>最后我们来到Nginx安装目录下，来查看是否有安装ssl模块成功。执行./sbin/nginx -V，如图所示就行了</li></ol><p><img src="/images/pasted-9.png" alt="upload successful"><br>7. 重启Nginx</p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Thu Oct 08 2020 00:18:25 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;1购买服务器和域名&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1购买服务器和域名&quot;&gt;&lt;/a&gt; 1.购买
+      
+    
+    </summary>
+    
+    
+      <category term="Nginx" scheme="http://www.chen-yuan-yuan.com/categories/Nginx/"/>
+    
+    
+      <category term="Nginx" scheme="http://www.chen-yuan-yuan.com/tags/Nginx/"/>
+    
+  </entry>
   
   <entry>
     <title>CentOS 启动 Nginx 脚本</title>
@@ -522,32 +548,6 @@
       
       
         &lt;!-- build time:Wed Sep 23 2020 22:29:18 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;在连接数据库的url属性中添加&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#在连接数据库的url属性中添
-      
-    
-    </summary>
-    
-    
-      <category term="MySql" scheme="http://www.chen-yuan-yuan.com/categories/MySql/"/>
-    
-    
-      <category term="MySql" scheme="http://www.chen-yuan-yuan.com/tags/MySql/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Mac os终端打开MySql</title>
-    <link href="http://www.chen-yuan-yuan.com/2019/06/04/%E7%BB%88%E7%AB%AF%E6%89%93%E5%BC%80MySql/"/>
-    <id>http://www.chen-yuan-yuan.com/2019/06/04/%E7%BB%88%E7%AB%AF%E6%89%93%E5%BC%80MySql/</id>
-    <published>2019-06-04T10:03:00.000Z</published>
-    <updated>2020-07-01T19:33:36.107Z</updated>
-    
-    <content type="html"><![CDATA[<!-- build time:Wed Sep 23 2020 22:29:18 GMT+0800 (GMT+08:00) --><h3 id="1打开终端"><a class="markdownIt-Anchor" href="#1打开终端"></a> 1.打开终端。</h3><p>sudo su 回车<br>输入：电脑密码</p><h3 id="2进入mysql的路径"><a class="markdownIt-Anchor" href="#2进入mysql的路径"></a> 2.进入MySql的路径。</h3><p>/usr/local/mysql/bin/mysql -u root -p 回车<br>输入：MySql密码</p><h3 id="3退出mysql"><a class="markdownIt-Anchor" href="#3退出mysql"></a> 3.退出MySql。</h3><p>输入：quit 回车</p><!-- rebuild by neat -->]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Wed Sep 23 2020 22:29:18 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;1打开终端&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1打开终端&quot;&gt;&lt;/a&gt; 1.打开终端。&lt;/h3&gt;
       
     
     </summary>
