@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.chen-yuan-yuan.icu/"/>
-  <updated>2020-10-09T15:06:19.252Z</updated>
+  <updated>2020-10-10T08:50:53.798Z</updated>
   <id>https://www.chen-yuan-yuan.icu/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>歇一歇</title>
+    <link href="https://www.chen-yuan-yuan.icu/2020/10/10/%E6%AD%87%E4%B8%80%E6%AD%87/"/>
+    <id>https://www.chen-yuan-yuan.icu/2020/10/10/%E6%AD%87%E4%B8%80%E6%AD%87/</id>
+    <published>2020-10-10T08:50:48.000Z</published>
+    <updated>2020-10-10T08:50:53.798Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Sat Oct 10 2020 16:50:54 GMT+0800 (GMT+08:00) --><h2 id="哈哈哈"><a class="markdownIt-Anchor" href="#哈哈哈"></a> 哈哈哈</h2><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Sat Oct 10 2020 16:50:54 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;哈哈哈&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#哈哈哈&quot;&gt;&lt;/a&gt; 哈哈哈&lt;/h2&gt;&lt;!-- reb
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>网站http转https</title>
@@ -527,32 +549,6 @@
     
     
       <category term="Vue" scheme="https://www.chen-yuan-yuan.icu/tags/Vue/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MySql for mac中文数据出现问号</title>
-    <link href="https://www.chen-yuan-yuan.icu/2019/06/21/MySql-for-mac%E4%B8%AD%E6%96%87%E6%95%B0%E6%8D%AE%E5%87%BA%E7%8E%B0%E9%97%AE%E5%8F%B7/"/>
-    <id>https://www.chen-yuan-yuan.icu/2019/06/21/MySql-for-mac%E4%B8%AD%E6%96%87%E6%95%B0%E6%8D%AE%E5%87%BA%E7%8E%B0%E9%97%AE%E5%8F%B7/</id>
-    <published>2019-06-21T10:11:00.000Z</published>
-    <updated>2020-10-09T15:05:39.207Z</updated>
-    
-    <content type="html"><![CDATA[<!-- build time:Sat Oct 10 2020 13:20:43 GMT+0800 (GMT+08:00) --><h3 id="在连接数据库的url属性中添加"><a class="markdownIt-Anchor" href="#在连接数据库的url属性中添加"></a> 在连接数据库的URL属性中添加：</h3><p>useUnicode=true&amp;characterEncoding=utf8</p><!-- rebuild by neat -->]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Sat Oct 10 2020 13:20:43 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;在连接数据库的url属性中添加&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#在连接数据库的url属性中添
-      
-    
-    </summary>
-    
-    
-      <category term="MySql" scheme="https://www.chen-yuan-yuan.icu/categories/MySql/"/>
-    
-    
-      <category term="MySql" scheme="https://www.chen-yuan-yuan.icu/tags/MySql/"/>
     
   </entry>
   
