@@ -214,14 +214,14 @@
   </url>
   
   <url>
-    <loc>https://www.chen-yuan-yuan.icu/tags/MySql/</loc>
+    <loc>https://www.chen-yuan-yuan.icu/tags/%E6%96%87%E4%BB%B6%E6%9D%83%E9%99%90/</loc>
     <lastmod>2020-10-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.chen-yuan-yuan.icu/tags/%E6%96%87%E4%BB%B6%E6%9D%83%E9%99%90/</loc>
+    <loc>https://www.chen-yuan-yuan.icu/tags/MySql/</loc>
     <lastmod>2020-10-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -235,28 +235,7 @@
   </url>
   
   <url>
-    <loc>https://www.chen-yuan-yuan.icu/tags/React/</loc>
-    <lastmod>2020-10-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.chen-yuan-yuan.icu/tags/CentOS/</loc>
-    <lastmod>2020-10-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.chen-yuan-yuan.icu/tags/Git/</loc>
-    <lastmod>2020-10-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.chen-yuan-yuan.icu/tags/json/</loc>
     <lastmod>2020-10-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -270,7 +249,21 @@
   </url>
   
   <url>
-    <loc>https://www.chen-yuan-yuan.icu/tags/Vue/</loc>
+    <loc>https://www.chen-yuan-yuan.icu/tags/React/</loc>
+    <lastmod>2020-10-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.chen-yuan-yuan.icu/tags/json/</loc>
+    <lastmod>2020-10-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.chen-yuan-yuan.icu/tags/Git/</loc>
     <lastmod>2020-10-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -278,6 +271,13 @@
   
   <url>
     <loc>https://www.chen-yuan-yuan.icu/tags/CSS/</loc>
+    <lastmod>2020-10-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.chen-yuan-yuan.icu/tags/Vue/</loc>
     <lastmod>2020-10-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -300,14 +300,14 @@
   </url>
   
   <url>
-    <loc>https://www.chen-yuan-yuan.icu/categories/MySql/</loc>
+    <loc>https://www.chen-yuan-yuan.icu/categories/%E6%96%87%E4%BB%B6%E6%9D%83%E9%99%90/</loc>
     <lastmod>2020-10-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.chen-yuan-yuan.icu/categories/%E6%96%87%E4%BB%B6%E6%9D%83%E9%99%90/</loc>
+    <loc>https://www.chen-yuan-yuan.icu/categories/MySql/</loc>
     <lastmod>2020-10-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -321,28 +321,7 @@
   </url>
   
   <url>
-    <loc>https://www.chen-yuan-yuan.icu/categories/React/</loc>
-    <lastmod>2020-10-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.chen-yuan-yuan.icu/categories/CentOS/</loc>
-    <lastmod>2020-10-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.chen-yuan-yuan.icu/categories/Git/</loc>
-    <lastmod>2020-10-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.chen-yuan-yuan.icu/categories/json/</loc>
     <lastmod>2020-10-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -356,7 +335,21 @@
   </url>
   
   <url>
-    <loc>https://www.chen-yuan-yuan.icu/categories/Vue/</loc>
+    <loc>https://www.chen-yuan-yuan.icu/categories/React/</loc>
+    <lastmod>2020-10-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.chen-yuan-yuan.icu/categories/json/</loc>
+    <lastmod>2020-10-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.chen-yuan-yuan.icu/categories/Git/</loc>
     <lastmod>2020-10-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -364,6 +357,13 @@
   
   <url>
     <loc>https://www.chen-yuan-yuan.icu/categories/CSS/</loc>
+    <lastmod>2020-10-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.chen-yuan-yuan.icu/categories/Vue/</loc>
     <lastmod>2020-10-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
