@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hexo</title>
   
-  <subtitle>陈园园个人技术分享，用于分享技术，写博客。</subtitle>
+  <subtitle>陈园园个人技术分享，写博客。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.chen-yuan-yuan.icu/"/>
