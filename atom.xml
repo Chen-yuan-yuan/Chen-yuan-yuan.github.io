@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.chen-yuan-yuan.icu/"/>
-  <updated>2020-10-28T05:52:33.251Z</updated>
+  <updated>2020-10-28T16:32:16.973Z</updated>
   <id>https://www.chen-yuan-yuan.icu/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo博客的百度收录</title>
+    <link href="https://www.chen-yuan-yuan.icu/2020/10/29/%E6%B5%8B%E8%AF%95/"/>
+    <id>https://www.chen-yuan-yuan.icu/2020/10/29/%E6%B5%8B%E8%AF%95/</id>
+    <published>2020-10-28T16:23:00.000Z</published>
+    <updated>2020-10-28T16:32:16.973Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Thu Oct 29 2020 00:35:07 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;百度收录之路，这一路走来，太辛苦了，写点博客记录踩坑&lt;/p&gt;&lt;/blockquote&gt;&lt;h3 id=&quot;第一步去百度站长工
+      
+    
+    </summary>
+    
+    
+      <category term="网站推广" scheme="https://www.chen-yuan-yuan.icu/categories/%E7%BD%91%E7%AB%99%E6%8E%A8%E5%B9%BF/"/>
+    
+    
+      <category term="百度收录" scheme="https://www.chen-yuan-yuan.icu/tags/%E7%99%BE%E5%BA%A6%E6%94%B6%E5%BD%95/"/>
+    
+  </entry>
   
   <entry>
     <title>Flex布局和Grid 布局</title>
@@ -27,7 +51,7 @@
     
       
       
-        &lt;!-- build time:Wed Oct 28 2020 13:52:33 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;flex布局弹性布局&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#flex布局弹性布局&quot;&gt;&lt;/a&gt; Fl
+        &lt;!-- build time:Thu Oct 29 2020 00:35:07 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;flex布局弹性布局&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#flex布局弹性布局&quot;&gt;&lt;/a&gt; Fl
       
     
     </summary>
@@ -51,7 +75,7 @@
     
       
       
-        &lt;!-- build time:Wed Oct 28 2020 14:19:32 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;浏览器内核&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#浏览器内核&quot;&gt;&lt;/a&gt; 浏览器内核&lt;/h3&gt;&lt;u
+        &lt;!-- build time:Thu Oct 29 2020 00:35:07 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;浏览器内核&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#浏览器内核&quot;&gt;&lt;/a&gt; 浏览器内核&lt;/h3&gt;&lt;u
       
     
     </summary>
@@ -75,7 +99,7 @@
     
       
       
-        &lt;!-- build time:Wed Oct 28 2020 13:39:59 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;1购买服务器和域名&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1购买服务器和域名&quot;&gt;&lt;/a&gt; 1.购买
+        &lt;!-- build time:Thu Oct 29 2020 00:35:07 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;1购买服务器和域名&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1购买服务器和域名&quot;&gt;&lt;/a&gt; 1.购买
       
     
     </summary>
@@ -99,7 +123,7 @@
     
       
       
-        &lt;!-- build time:Wed Oct 28 2020 13:39:59 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;在etcinitd路径下添加脚本文件名称为nginx内容如下&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;
+        &lt;!-- build time:Thu Oct 29 2020 00:35:07 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;在etcinitd路径下添加脚本文件名称为nginx内容如下&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;
       
     
     </summary>
@@ -123,7 +147,7 @@
     
       
       
-        &lt;!-- build time:Wed Oct 28 2020 13:39:59 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;一般的json数据&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#一般的json数据&quot;&gt;&lt;/a&gt; 一般的j
+        &lt;!-- build time:Thu Oct 29 2020 00:35:07 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;一般的json数据&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#一般的json数据&quot;&gt;&lt;/a&gt; 一般的j
       
     
     </summary>
@@ -147,7 +171,7 @@
     
       
       
-        &lt;!-- build time:Wed Oct 28 2020 13:39:59 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;npm&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#npm&quot;&gt;&lt;/a&gt; npm&lt;/h3&gt;&lt;p&gt;全称【no
+        &lt;!-- build time:Thu Oct 29 2020 00:35:07 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;npm&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#npm&quot;&gt;&lt;/a&gt; npm&lt;/h3&gt;&lt;p&gt;全称【no
       
     
     </summary>
@@ -171,7 +195,7 @@
     
       
       
-        &lt;!-- build time:Wed Oct 28 2020 13:39:59 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;概述&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#概述&quot;&gt;&lt;/a&gt; 概述&lt;/h3&gt;&lt;p&gt;一般我们写完项目
+        &lt;!-- build time:Thu Oct 29 2020 00:35:07 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;概述&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#概述&quot;&gt;&lt;/a&gt; 概述&lt;/h3&gt;&lt;p&gt;一般我们写完项目
       
     
     </summary>
@@ -195,7 +219,7 @@
     
       
       
-        &lt;!-- build time:Wed Oct 28 2020 13:39:59 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;概述&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#概述&quot;&gt;&lt;/a&gt; 概述：&lt;/h3&gt;&lt;blockquot
+        &lt;!-- build time:Thu Oct 29 2020 00:35:07 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;概述&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#概述&quot;&gt;&lt;/a&gt; 概述：&lt;/h3&gt;&lt;blockquot
       
     
     </summary>
@@ -219,7 +243,7 @@
     
       
       
-        &lt;!-- build time:Wed Oct 28 2020 13:39:59 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;查看&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#查看&quot;&gt;&lt;/a&gt; 查看&lt;/h3&gt;&lt;blockquote
+        &lt;!-- build time:Thu Oct 29 2020 00:35:07 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;查看&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#查看&quot;&gt;&lt;/a&gt; 查看&lt;/h3&gt;&lt;blockquote
       
     
     </summary>
@@ -243,7 +267,7 @@
     
       
       
-        &lt;!-- build time:Wed Oct 28 2020 13:39:59 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;1下载nodejs&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1下载nodejs&quot;&gt;&lt;/a&gt; 1.下载
+        &lt;!-- build time:Thu Oct 29 2020 00:35:07 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;1下载nodejs&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1下载nodejs&quot;&gt;&lt;/a&gt; 1.下载
       
     
     </summary>
@@ -267,7 +291,7 @@
     
       
       
-        &lt;!-- build time:Wed Oct 28 2020 13:39:59 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;终端输入&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#终端输入&quot;&gt;&lt;/a&gt; 终端输入：&lt;/h3&gt;&lt;ul&gt;
+        &lt;!-- build time:Thu Oct 29 2020 00:35:07 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;终端输入&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#终端输入&quot;&gt;&lt;/a&gt; 终端输入：&lt;/h3&gt;&lt;ul&gt;
       
     
     </summary>
@@ -291,7 +315,7 @@
     
       
       
-        &lt;!-- build time:Wed Oct 28 2020 13:39:59 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;一-下载&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#一-下载&quot;&gt;&lt;/a&gt; 一、 下载&lt;/h3&gt;&lt;p&gt;登
+        &lt;!-- build time:Thu Oct 29 2020 00:35:07 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;一-下载&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#一-下载&quot;&gt;&lt;/a&gt; 一、 下载&lt;/h3&gt;&lt;p&gt;登
       
     
     </summary>
@@ -315,7 +339,7 @@
     
       
       
-        &lt;!-- build time:Wed Oct 28 2020 13:39:59 GMT+0800 (GMT+08:00) --&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;检查node版本(Node.js官网自己下，然后就执行这一步)&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;node -v&lt;/p&gt;&lt;/b
+        &lt;!-- build time:Thu Oct 29 2020 00:35:07 GMT+0800 (GMT+08:00) --&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;检查node版本(Node.js官网自己下，然后就执行这一步)&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;node -v&lt;/p&gt;&lt;/b
       
     
     </summary>
@@ -339,7 +363,7 @@
     
       
       
-        &lt;!-- build time:Wed Oct 28 2020 13:39:59 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;1打开终端&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1打开终端&quot;&gt;&lt;/a&gt; 1.打开终端。&lt;/h3&gt;
+        &lt;!-- build time:Thu Oct 29 2020 00:35:07 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;1打开终端&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1打开终端&quot;&gt;&lt;/a&gt; 1.打开终端。&lt;/h3&gt;
       
     
     </summary>
@@ -363,7 +387,7 @@
     
       
       
-        &lt;!-- build time:Wed Oct 28 2020 13:39:59 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;1mac平台解决方法&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1mac平台解决方法&quot;&gt;&lt;/a&gt; 1.
+        &lt;!-- build time:Thu Oct 29 2020 00:35:07 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;1mac平台解决方法&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1mac平台解决方法&quot;&gt;&lt;/a&gt; 1.
       
     
     </summary>
@@ -387,7 +411,7 @@
     
       
       
-        &lt;!-- build time:Wed Oct 28 2020 13:39:59 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;让定位的div不占位置&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#让定位的div不占位置&quot;&gt;&lt;/a&gt; 
+        &lt;!-- build time:Thu Oct 29 2020 00:35:07 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;让定位的div不占位置&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#让定位的div不占位置&quot;&gt;&lt;/a&gt; 
       
     
     </summary>
@@ -411,7 +435,7 @@
     
       
       
-        &lt;!-- build time:Wed Oct 28 2020 13:39:59 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;1-取消左下角版权下面的那一行字&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1-取消左下角版权下面的那
+        &lt;!-- build time:Thu Oct 29 2020 00:35:07 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;1-取消左下角版权下面的那一行字&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1-取消左下角版权下面的那
       
     
     </summary>
@@ -435,7 +459,7 @@
     
       
       
-        &lt;!-- build time:Wed Oct 28 2020 13:39:59 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;概述：由于想试一试部署项目，也不知道部署啥上去，就部署了一个hexo博客上去试手，爬了许多坑，留下笔记，供自己下次部署。
+        &lt;!-- build time:Thu Oct 29 2020 00:35:07 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;概述：由于想试一试部署项目，也不知道部署啥上去，就部署了一个hexo博客上去试手，爬了许多坑，留下笔记，供自己下次部署。
       
     
     </summary>
@@ -459,29 +483,8 @@
     
       
       
-        &lt;!-- build time:Wed Oct 28 2020 13:39:59 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;1登陆githubcom建立自己的仓库&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1登陆githubc
+        &lt;!-- build time:Thu Oct 29 2020 00:35:07 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;1登陆githubcom建立自己的仓库&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1登陆githubc
       
-    
-    </summary>
-    
-    
-      <category term="Hexo系列" scheme="https://www.chen-yuan-yuan.icu/categories/Hexo%E7%B3%BB%E5%88%97/"/>
-    
-    
-      <category term="Hexo" scheme="https://www.chen-yuan-yuan.icu/tags/Hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hexo博客系列（2）之Hexo各种命令</title>
-    <link href="https://www.chen-yuan-yuan.icu/2018/06/21/Hexo%E5%90%84%E7%A7%8D%E5%91%BD%E4%BB%A4/"/>
-    <id>https://www.chen-yuan-yuan.icu/2018/06/21/Hexo%E5%90%84%E7%A7%8D%E5%91%BD%E4%BB%A4/</id>
-    <published>2018-06-21T06:50:00.000Z</published>
-    <updated>2020-10-27T15:25:17.945Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Wed Oct 28 2020 13:39:59 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;描述：了解hexo各种命令。
     
     </summary>
     
