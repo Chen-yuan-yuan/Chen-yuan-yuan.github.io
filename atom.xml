@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.chen-yuan-yuan.icu/"/>
-  <updated>2020-10-29T08:46:07.814Z</updated>
+  <updated>2020-10-30T08:34:34.988Z</updated>
   <id>https://www.chen-yuan-yuan.icu/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo博客的百度收录</title>
+    <link href="https://www.chen-yuan-yuan.icu/2020/10/29/hexo%E5%8D%9A%E5%AE%A2%E7%9A%84%E7%99%BE%E5%BA%A6%E6%94%B6%E5%BD%95/"/>
+    <id>https://www.chen-yuan-yuan.icu/2020/10/29/hexo%E5%8D%9A%E5%AE%A2%E7%9A%84%E7%99%BE%E5%BA%A6%E6%94%B6%E5%BD%95/</id>
+    <published>2020-10-28T16:23:00.000Z</published>
+    <updated>2020-10-30T08:34:34.988Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Fri Oct 30 2020 16:34:35 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;百度收录之路，这一路走来，太辛苦了，写点博客记录踩坑&lt;/p&gt;&lt;/blockquote&gt;&lt;h3 id=&quot;第一步去百度站长工
+      
+    
+    </summary>
+    
+    
+      <category term="Hexo系列" scheme="https://www.chen-yuan-yuan.icu/categories/Hexo%E7%B3%BB%E5%88%97/"/>
+    
+    
+      <category term="百度收录" scheme="https://www.chen-yuan-yuan.icu/tags/%E7%99%BE%E5%BA%A6%E6%94%B6%E5%BD%95/"/>
+    
+  </entry>
   
   <entry>
     <title>Flex布局和Grid 布局</title>
@@ -460,30 +484,6 @@
       
       
         &lt;!-- build time:Fri Oct 30 2020 15:07:21 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;概述：由于想试一试部署项目，也不知道部署啥上去，就部署了一个hexo博客上去试手，爬了许多坑，留下笔记，供自己下次部署。
-      
-    
-    </summary>
-    
-    
-      <category term="Hexo系列" scheme="https://www.chen-yuan-yuan.icu/categories/Hexo%E7%B3%BB%E5%88%97/"/>
-    
-    
-      <category term="Hexo" scheme="https://www.chen-yuan-yuan.icu/tags/Hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hexo博客pure主题之Hexo部署GitHub</title>
-    <link href="https://www.chen-yuan-yuan.icu/2018/06/23/Hexo%E5%8D%9A%E5%AE%A2%E7%B3%BB%E5%88%97%E4%B9%8BHexo%E9%83%A8%E7%BD%B2GitHub/"/>
-    <id>https://www.chen-yuan-yuan.icu/2018/06/23/Hexo%E5%8D%9A%E5%AE%A2%E7%B3%BB%E5%88%97%E4%B9%8BHexo%E9%83%A8%E7%BD%B2GitHub/</id>
-    <published>2018-06-23T09:29:00.000Z</published>
-    <updated>2020-10-29T15:00:06.592Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Fri Oct 30 2020 15:07:21 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;1登陆githubcom建立自己的仓库&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1登陆githubc
       
     
     </summary>
