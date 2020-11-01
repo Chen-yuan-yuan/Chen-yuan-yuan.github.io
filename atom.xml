@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hexo</title>
   
-  <subtitle>陈园园个人技术分享，博客。</subtitle>
+  <subtitle>陈园园个人博客，用于技术分享，技术交流。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.chen-yuan-yuan.icu/"/>
-  <updated>2020-10-30T08:34:34.988Z</updated>
+  <updated>2020-11-01T07:29:42.930Z</updated>
   <id>https://www.chen-yuan-yuan.icu/</id>
   
   <author>
@@ -17,17 +17,17 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hexo博客的百度收录</title>
-    <link href="https://www.chen-yuan-yuan.icu/2020/10/29/hexo%E5%8D%9A%E5%AE%A2%E7%9A%84%E7%99%BE%E5%BA%A6%E6%94%B6%E5%BD%95/"/>
-    <id>https://www.chen-yuan-yuan.icu/2020/10/29/hexo%E5%8D%9A%E5%AE%A2%E7%9A%84%E7%99%BE%E5%BA%A6%E6%94%B6%E5%BD%95/</id>
-    <published>2020-10-28T16:23:00.000Z</published>
-    <updated>2020-10-30T08:34:34.988Z</updated>
+    <title>hexo博客的谷歌收录</title>
+    <link href="https://www.chen-yuan-yuan.icu/2020/11/01/hexo%E5%8D%9A%E5%AE%A2%E7%9A%84%E8%B0%B7%E6%AD%8C%E6%94%B6%E5%BD%95/"/>
+    <id>https://www.chen-yuan-yuan.icu/2020/11/01/hexo%E5%8D%9A%E5%AE%A2%E7%9A%84%E8%B0%B7%E6%AD%8C%E6%94%B6%E5%BD%95/</id>
+    <published>2020-11-01T07:20:00.000Z</published>
+    <updated>2020-11-01T07:29:42.930Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Sun Nov 01 2020 00:02:06 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;百度收录之路，这一路走来，太辛苦了，写点博客记录踩坑&lt;/p&gt;&lt;/blockquote&gt;&lt;h3 id=&quot;第一步去百度站长工
+        &lt;!-- build time:Sun Nov 01 2020 15:29:43 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;谷歌收录很简单&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#谷歌收录很简单&quot;&gt;&lt;/a&gt; 谷歌收录（很简单
       
     
     </summary>
@@ -36,7 +36,31 @@
       <category term="Hexo系列" scheme="https://www.chen-yuan-yuan.icu/categories/Hexo%E7%B3%BB%E5%88%97/"/>
     
     
-      <category term="百度收录" scheme="https://www.chen-yuan-yuan.icu/tags/%E7%99%BE%E5%BA%A6%E6%94%B6%E5%BD%95/"/>
+      <category term="SEO" scheme="https://www.chen-yuan-yuan.icu/tags/SEO/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo博客的百度收录</title>
+    <link href="https://www.chen-yuan-yuan.icu/2020/10/29/hexo%E5%8D%9A%E5%AE%A2%E7%9A%84%E7%99%BE%E5%BA%A6%E6%94%B6%E5%BD%95/"/>
+    <id>https://www.chen-yuan-yuan.icu/2020/10/29/hexo%E5%8D%9A%E5%AE%A2%E7%9A%84%E7%99%BE%E5%BA%A6%E6%94%B6%E5%BD%95/</id>
+    <published>2020-10-28T16:23:00.000Z</published>
+    <updated>2020-11-01T07:29:34.019Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Sun Nov 01 2020 15:29:34 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;百度收录之路，这一路走来，太辛苦了，写点博客记录踩坑&lt;/p&gt;&lt;/blockquote&gt;&lt;h3 id=&quot;第一步去百度站长工
+      
+    
+    </summary>
+    
+    
+      <category term="Hexo系列" scheme="https://www.chen-yuan-yuan.icu/categories/Hexo%E7%B3%BB%E5%88%97/"/>
+    
+    
+      <category term="SEO" scheme="https://www.chen-yuan-yuan.icu/tags/SEO/"/>
     
   </entry>
   
@@ -51,7 +75,7 @@
     
       
       
-        &lt;!-- build time:Sun Nov 01 2020 00:02:06 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;flex布局弹性布局&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#flex布局弹性布局&quot;&gt;&lt;/a&gt; Fl
+        &lt;!-- build time:Sun Nov 01 2020 12:37:46 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;flex布局弹性布局&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#flex布局弹性布局&quot;&gt;&lt;/a&gt; Fl
       
     
     </summary>
@@ -75,7 +99,7 @@
     
       
       
-        &lt;!-- build time:Sun Nov 01 2020 00:02:06 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;浏览器内核&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#浏览器内核&quot;&gt;&lt;/a&gt; 浏览器内核&lt;/h3&gt;&lt;u
+        &lt;!-- build time:Sun Nov 01 2020 12:37:46 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;浏览器内核&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#浏览器内核&quot;&gt;&lt;/a&gt; 浏览器内核&lt;/h3&gt;&lt;u
       
     
     </summary>
@@ -99,7 +123,7 @@
     
       
       
-        &lt;!-- build time:Sun Nov 01 2020 00:02:06 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;1购买服务器和域名&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1购买服务器和域名&quot;&gt;&lt;/a&gt; 1.购买
+        &lt;!-- build time:Sun Nov 01 2020 12:37:46 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;1购买服务器和域名&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1购买服务器和域名&quot;&gt;&lt;/a&gt; 1.购买
       
     
     </summary>
@@ -123,7 +147,7 @@
     
       
       
-        &lt;!-- build time:Sun Nov 01 2020 00:02:06 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;在etcinitd路径下添加脚本文件名称为nginx内容如下&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;
+        &lt;!-- build time:Sun Nov 01 2020 12:37:46 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;在etcinitd路径下添加脚本文件名称为nginx内容如下&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;
       
     
     </summary>
@@ -147,7 +171,7 @@
     
       
       
-        &lt;!-- build time:Sun Nov 01 2020 00:02:06 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;一般的json数据&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#一般的json数据&quot;&gt;&lt;/a&gt; 一般的j
+        &lt;!-- build time:Sun Nov 01 2020 12:37:46 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;一般的json数据&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#一般的json数据&quot;&gt;&lt;/a&gt; 一般的j
       
     
     </summary>
@@ -171,7 +195,7 @@
     
       
       
-        &lt;!-- build time:Sun Nov 01 2020 00:02:06 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;npm&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#npm&quot;&gt;&lt;/a&gt; npm&lt;/h3&gt;&lt;p&gt;全称【no
+        &lt;!-- build time:Sun Nov 01 2020 12:37:46 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;npm&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#npm&quot;&gt;&lt;/a&gt; npm&lt;/h3&gt;&lt;p&gt;全称【no
       
     
     </summary>
@@ -195,7 +219,7 @@
     
       
       
-        &lt;!-- build time:Sun Nov 01 2020 00:02:06 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;概述&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#概述&quot;&gt;&lt;/a&gt; 概述&lt;/h3&gt;&lt;p&gt;一般我们写完项目
+        &lt;!-- build time:Sun Nov 01 2020 12:37:46 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;概述&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#概述&quot;&gt;&lt;/a&gt; 概述&lt;/h3&gt;&lt;p&gt;一般我们写完项目
       
     
     </summary>
@@ -219,7 +243,7 @@
     
       
       
-        &lt;!-- build time:Sun Nov 01 2020 00:02:06 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;概述&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#概述&quot;&gt;&lt;/a&gt; 概述：&lt;/h3&gt;&lt;blockquot
+        &lt;!-- build time:Sun Nov 01 2020 12:37:46 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;概述&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#概述&quot;&gt;&lt;/a&gt; 概述：&lt;/h3&gt;&lt;blockquot
       
     
     </summary>
@@ -243,7 +267,7 @@
     
       
       
-        &lt;!-- build time:Sun Nov 01 2020 00:02:06 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;查看&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#查看&quot;&gt;&lt;/a&gt; 查看&lt;/h3&gt;&lt;blockquote
+        &lt;!-- build time:Sun Nov 01 2020 12:37:46 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;查看&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#查看&quot;&gt;&lt;/a&gt; 查看&lt;/h3&gt;&lt;blockquote
       
     
     </summary>
@@ -267,7 +291,7 @@
     
       
       
-        &lt;!-- build time:Sun Nov 01 2020 00:02:06 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;1下载nodejs&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1下载nodejs&quot;&gt;&lt;/a&gt; 1.下载
+        &lt;!-- build time:Sun Nov 01 2020 12:37:46 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;1下载nodejs&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1下载nodejs&quot;&gt;&lt;/a&gt; 1.下载
       
     
     </summary>
@@ -291,7 +315,7 @@
     
       
       
-        &lt;!-- build time:Sun Nov 01 2020 00:02:06 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;终端输入&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#终端输入&quot;&gt;&lt;/a&gt; 终端输入：&lt;/h3&gt;&lt;ul&gt;
+        &lt;!-- build time:Sun Nov 01 2020 12:37:46 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;终端输入&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#终端输入&quot;&gt;&lt;/a&gt; 终端输入：&lt;/h3&gt;&lt;ul&gt;
       
     
     </summary>
@@ -315,7 +339,7 @@
     
       
       
-        &lt;!-- build time:Sun Nov 01 2020 00:02:06 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;一-下载&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#一-下载&quot;&gt;&lt;/a&gt; 一、 下载&lt;/h3&gt;&lt;p&gt;登
+        &lt;!-- build time:Sun Nov 01 2020 12:37:46 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;一-下载&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#一-下载&quot;&gt;&lt;/a&gt; 一、 下载&lt;/h3&gt;&lt;p&gt;登
       
     
     </summary>
@@ -339,7 +363,7 @@
     
       
       
-        &lt;!-- build time:Sun Nov 01 2020 00:02:06 GMT+0800 (GMT+08:00) --&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;检查node版本(Node.js官网自己下，然后就执行这一步)&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;node -v&lt;/p&gt;&lt;/b
+        &lt;!-- build time:Sun Nov 01 2020 12:37:46 GMT+0800 (GMT+08:00) --&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;检查node版本(Node.js官网自己下，然后就执行这一步)&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;node -v&lt;/p&gt;&lt;/b
       
     
     </summary>
@@ -363,7 +387,7 @@
     
       
       
-        &lt;!-- build time:Sun Nov 01 2020 00:02:06 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;1打开终端&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1打开终端&quot;&gt;&lt;/a&gt; 1.打开终端。&lt;/h3&gt;
+        &lt;!-- build time:Sun Nov 01 2020 12:37:46 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;1打开终端&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1打开终端&quot;&gt;&lt;/a&gt; 1.打开终端。&lt;/h3&gt;
       
     
     </summary>
@@ -387,7 +411,7 @@
     
       
       
-        &lt;!-- build time:Sun Nov 01 2020 00:02:06 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;1mac平台解决方法&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1mac平台解决方法&quot;&gt;&lt;/a&gt; 1.
+        &lt;!-- build time:Sun Nov 01 2020 12:37:46 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;1mac平台解决方法&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1mac平台解决方法&quot;&gt;&lt;/a&gt; 1.
       
     
     </summary>
@@ -411,7 +435,7 @@
     
       
       
-        &lt;!-- build time:Sun Nov 01 2020 00:02:06 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;让定位的div不占位置&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#让定位的div不占位置&quot;&gt;&lt;/a&gt; 
+        &lt;!-- build time:Sun Nov 01 2020 12:37:46 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;让定位的div不占位置&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#让定位的div不占位置&quot;&gt;&lt;/a&gt; 
       
     
     </summary>
@@ -435,7 +459,7 @@
     
       
       
-        &lt;!-- build time:Sun Nov 01 2020 00:02:06 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;感谢群里的小伙伴，博主 kajweb 的博文： &lt;a href=&quot;https://blog.iwwee.com/post
+        &lt;!-- build time:Sun Nov 01 2020 12:37:46 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;感谢群里的小伙伴，博主 kajweb 的博文： &lt;a href=&quot;https://blog.iwwee.com/post
       
     
     </summary>
@@ -459,31 +483,7 @@
     
       
       
-        &lt;!-- build time:Sun Nov 01 2020 00:02:06 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;1、pure主题QQ交流群：&lt;code&gt;457242263&lt;/code&gt;。&lt;br&gt;2、其次感谢群里的小伙伴们的帮助，让我
-      
-    
-    </summary>
-    
-    
-      <category term="Hexo系列" scheme="https://www.chen-yuan-yuan.icu/categories/Hexo%E7%B3%BB%E5%88%97/"/>
-    
-    
-      <category term="Hexo" scheme="https://www.chen-yuan-yuan.icu/tags/Hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hexo博客pure主题之部署到服务器</title>
-    <link href="https://www.chen-yuan-yuan.icu/2018/06/25/Hexo%E5%8D%9A%E5%AE%A2%E7%B3%BB%E5%88%97%E4%B9%8BHexo%E9%83%A8%E7%BD%B2%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
-    <id>https://www.chen-yuan-yuan.icu/2018/06/25/Hexo%E5%8D%9A%E5%AE%A2%E7%B3%BB%E5%88%97%E4%B9%8BHexo%E9%83%A8%E7%BD%B2%E6%9C%8D%E5%8A%A1%E5%99%A8/</id>
-    <published>2018-06-25T13:20:00.000Z</published>
-    <updated>2020-10-30T13:50:55.561Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Sun Nov 01 2020 00:02:06 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;概述：由于想试一试部署项目，也不知道部署啥上去，就部署了一个hexo博客上去试手，爬了许多坑，留下笔记，供自己下次部署。
+        &lt;!-- build time:Sun Nov 01 2020 12:37:46 GMT+0800 (GMT+08:00) --&gt;&lt;blockquote&gt;&lt;p&gt;1、pure主题QQ交流群：&lt;code&gt;457242263&lt;/code&gt;。&lt;br&gt;2、其次感谢群里的小伙伴们的帮助，让我
       
     
     </summary>

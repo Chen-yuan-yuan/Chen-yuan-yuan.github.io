@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.chen-yuan-yuan.icu/2020/11/01/hexo%E5%8D%9A%E5%AE%A2%E7%9A%84%E8%B0%B7%E6%AD%8C%E6%94%B6%E5%BD%95/</loc>
+    
+    <lastmod>2020-11-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.chen-yuan-yuan.icu/2020/10/29/hexo%E5%8D%9A%E5%AE%A2%E7%9A%84%E7%99%BE%E5%BA%A6%E6%94%B6%E5%BD%95/</loc>
+    
+    <lastmod>2020-11-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.chen-yuan-yuan.icu/about/index.html</loc>
+    
+    <lastmod>2020-11-01</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.chen-yuan-yuan.icu/2018/06/26/Hexo%E5%8D%9A%E5%AE%A2%E7%B3%BB%E5%88%97%E4%B9%8BHexo%E5%90%84%E7%B1%BB%E9%97%AE%E9%A2%98/</loc>
     
     <lastmod>2020-10-30</lastmod>
@@ -31,20 +52,6 @@
   
   <url>
     <loc>https://www.chen-yuan-yuan.icu/2018/06/25/Hexo%E5%8D%9A%E5%AE%A2%E7%B3%BB%E5%88%97%E4%B9%8BHexo%E9%83%A8%E7%BD%B2%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
-    
-    <lastmod>2020-10-30</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.chen-yuan-yuan.icu/about/index.html</loc>
-    
-    <lastmod>2020-10-30</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.chen-yuan-yuan.icu/2020/10/29/hexo%E5%8D%9A%E5%AE%A2%E7%9A%84%E7%99%BE%E5%BA%A6%E6%94%B6%E5%BD%95/</loc>
     
     <lastmod>2020-10-30</lastmod>
     
@@ -221,113 +228,113 @@
 
   <url>
     <loc>https://www.chen-yuan-yuan.icu/</loc>
-    <lastmod>2020-10-31</lastmod>
+    <lastmod>2020-11-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://www.chen-yuan-yuan.icu/tags/Hexo/</loc>
-    <lastmod>2020-10-31</lastmod>
+    <loc>https://www.chen-yuan-yuan.icu/tags/Nginx/</loc>
+    <lastmod>2020-11-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.chen-yuan-yuan.icu/tags/CSS/</loc>
-    <lastmod>2020-10-31</lastmod>
+    <lastmod>2020-11-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.chen-yuan-yuan.icu/tags/Nginx/</loc>
-    <lastmod>2020-10-31</lastmod>
+    <loc>https://www.chen-yuan-yuan.icu/tags/Hexo/</loc>
+    <lastmod>2020-11-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.chen-yuan-yuan.icu/tags/JavaScript/</loc>
-    <lastmod>2020-10-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.chen-yuan-yuan.icu/tags/%E7%AB%AF%E5%8F%A3/</loc>
-    <lastmod>2020-10-31</lastmod>
+    <lastmod>2020-11-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.chen-yuan-yuan.icu/tags/MySql/</loc>
-    <lastmod>2020-10-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.chen-yuan-yuan.icu/tags/json/</loc>
-    <lastmod>2020-10-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.chen-yuan-yuan.icu/tags/React/</loc>
-    <lastmod>2020-10-31</lastmod>
+    <lastmod>2020-11-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.chen-yuan-yuan.icu/tags/%E6%96%87%E4%BB%B6%E6%9D%83%E9%99%90/</loc>
-    <lastmod>2020-10-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.chen-yuan-yuan.icu/tags/Git/</loc>
-    <lastmod>2020-10-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.chen-yuan-yuan.icu/tags/Tomcat/</loc>
-    <lastmod>2020-10-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.chen-yuan-yuan.icu/tags/Vue/</loc>
-    <lastmod>2020-10-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.chen-yuan-yuan.icu/tags/%E7%99%BE%E5%BA%A6%E6%94%B6%E5%BD%95/</loc>
-    <lastmod>2020-10-31</lastmod>
+    <lastmod>2020-11-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.chen-yuan-yuan.icu/tags/CentOS/</loc>
-    <lastmod>2020-10-31</lastmod>
+    <lastmod>2020-11-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.chen-yuan-yuan.icu/tags/%E7%AB%AF%E5%8F%A3/</loc>
+    <lastmod>2020-11-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.chen-yuan-yuan.icu/tags/React/</loc>
+    <lastmod>2020-11-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.chen-yuan-yuan.icu/tags/%E5%8C%85%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2020-10-31</lastmod>
+    <lastmod>2020-11-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.chen-yuan-yuan.icu/tags/json/</loc>
+    <lastmod>2020-11-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.chen-yuan-yuan.icu/tags/Git/</loc>
+    <lastmod>2020-11-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.chen-yuan-yuan.icu/tags/Tomcat/</loc>
+    <lastmod>2020-11-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.chen-yuan-yuan.icu/tags/Vue/</loc>
+    <lastmod>2020-11-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.chen-yuan-yuan.icu/tags/SEO/</loc>
+    <lastmod>2020-11-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -335,29 +342,29 @@
 
   
   <url>
-    <loc>https://www.chen-yuan-yuan.icu/categories/Hexo%E7%B3%BB%E5%88%97/</loc>
-    <lastmod>2020-10-31</lastmod>
+    <loc>https://www.chen-yuan-yuan.icu/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
+    <lastmod>2020-11-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.chen-yuan-yuan.icu/categories/%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2020-10-31</lastmod>
+    <lastmod>2020-11-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.chen-yuan-yuan.icu/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
-    <lastmod>2020-10-31</lastmod>
+    <loc>https://www.chen-yuan-yuan.icu/categories/Hexo%E7%B3%BB%E5%88%97/</loc>
+    <lastmod>2020-11-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.chen-yuan-yuan.icu/categories/%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2020-10-31</lastmod>
+    <lastmod>2020-11-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
