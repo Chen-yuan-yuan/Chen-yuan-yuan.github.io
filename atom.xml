@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.chen-yuan-yuan.icu/"/>
-  <updated>2020-12-14T03:41:12.827Z</updated>
+  <updated>2020-12-26T14:51:20.437Z</updated>
   <id>https://www.chen-yuan-yuan.icu/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Linux基础</title>
+    <link href="https://www.chen-yuan-yuan.icu/2020/12/26/Linux%E5%9F%BA%E7%A1%80/"/>
+    <id>https://www.chen-yuan-yuan.icu/2020/12/26/Linux%E5%9F%BA%E7%A1%80/</id>
+    <published>2020-12-26T14:48:00.000Z</published>
+    <updated>2020-12-26T14:51:20.437Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Sat Dec 26 2020 22:51:20 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;linux系统概述第一章&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#linux系统概述第一章&quot;&gt;&lt;/a
+      
+    
+    </summary>
+    
+    
+      <category term="笔记" scheme="https://www.chen-yuan-yuan.icu/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="Linux基础" scheme="https://www.chen-yuan-yuan.icu/tags/Linux%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
   
   <entry>
     <title>4.男生穿搭-护肤</title>
@@ -457,30 +481,6 @@
     
     
       <category term="MySql" scheme="https://www.chen-yuan-yuan.icu/tags/MySql/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Mac os配置Tomcat</title>
-    <link href="https://www.chen-yuan-yuan.icu/2019/06/24/%E9%85%8D%E7%BD%AETomcat/"/>
-    <id>https://www.chen-yuan-yuan.icu/2019/06/24/%E9%85%8D%E7%BD%AETomcat/</id>
-    <published>2019-06-24T10:25:00.000Z</published>
-    <updated>2020-10-27T15:29:12.387Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Wed Dec 02 2020 21:59:16 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;一-下载&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#一-下载&quot;&gt;&lt;/a&gt; 一、 下载&lt;/h3&gt;&lt;p&gt;登
-      
-    
-    </summary>
-    
-    
-      <category term="笔记" scheme="https://www.chen-yuan-yuan.icu/categories/%E7%AC%94%E8%AE%B0/"/>
-    
-    
-      <category term="Tomcat" scheme="https://www.chen-yuan-yuan.icu/tags/Tomcat/"/>
     
   </entry>
   
