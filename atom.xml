@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.chen-yuan-yuan.icu/"/>
-  <updated>2020-12-27T05:54:46.185Z</updated>
+  <updated>2020-12-28T16:58:36.989Z</updated>
   <id>https://www.chen-yuan-yuan.icu/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>操作系统</title>
+    <link href="https://www.chen-yuan-yuan.icu/2020/12/29/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    <id>https://www.chen-yuan-yuan.icu/2020/12/29/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</id>
+    <published>2020-12-28T16:58:00.000Z</published>
+    <updated>2020-12-28T16:58:36.989Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Tue Dec 29 2020 02:01:32 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;第一章-绪论&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#第一章-绪论&quot;&gt;&lt;/a&gt; 第一章 绪论&lt;/h2
+      
+    
+    </summary>
+    
+    
+      <category term="笔记" scheme="https://www.chen-yuan-yuan.icu/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="操作系统" scheme="https://www.chen-yuan-yuan.icu/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
   
   <entry>
     <title>NFS文件共享服务</title>
@@ -457,30 +481,6 @@
     
     
       <category term="Git" scheme="https://www.chen-yuan-yuan.icu/tags/Git/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Mac OS设置文件权限</title>
-    <link href="https://www.chen-yuan-yuan.icu/2020/07/02/Mac-os%E8%AE%BE%E7%BD%AE%E6%96%87%E4%BB%B6%E4%BB%BB%E4%BD%95%E4%BA%BA%E9%83%BD%E8%83%BD%E8%AF%BB%E5%86%99/"/>
-    <id>https://www.chen-yuan-yuan.icu/2020/07/02/Mac-os%E8%AE%BE%E7%BD%AE%E6%96%87%E4%BB%B6%E4%BB%BB%E4%BD%95%E4%BA%BA%E9%83%BD%E8%83%BD%E8%AF%BB%E5%86%99/</id>
-    <published>2020-07-02T10:21:00.000Z</published>
-    <updated>2020-10-27T16:19:08.644Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Wed Dec 02 2020 21:59:16 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;概述&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#概述&quot;&gt;&lt;/a&gt; 概述：&lt;/h3&gt;&lt;blockquot
-      
-    
-    </summary>
-    
-    
-      <category term="笔记" scheme="https://www.chen-yuan-yuan.icu/categories/%E7%AC%94%E8%AE%B0/"/>
-    
-    
-      <category term="文件权限" scheme="https://www.chen-yuan-yuan.icu/tags/%E6%96%87%E4%BB%B6%E6%9D%83%E9%99%90/"/>
     
   </entry>
   
