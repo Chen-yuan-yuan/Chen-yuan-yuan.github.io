@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.chen-yuan-yuan.icu/"/>
-  <updated>2020-12-26T14:51:20.437Z</updated>
+  <updated>2020-12-27T05:54:46.185Z</updated>
   <id>https://www.chen-yuan-yuan.icu/</id>
   
   <author>
@@ -17,17 +17,89 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Linux基础</title>
-    <link href="https://www.chen-yuan-yuan.icu/2020/12/26/Linux%E5%9F%BA%E7%A1%80/"/>
-    <id>https://www.chen-yuan-yuan.icu/2020/12/26/Linux%E5%9F%BA%E7%A1%80/</id>
-    <published>2020-12-26T14:48:00.000Z</published>
-    <updated>2020-12-26T14:51:20.437Z</updated>
+    <title>NFS文件共享服务</title>
+    <link href="https://www.chen-yuan-yuan.icu/2020/12/27/NFS%E6%96%87%E4%BB%B6%E5%85%B1%E4%BA%AB%E6%9C%8D%E5%8A%A1/"/>
+    <id>https://www.chen-yuan-yuan.icu/2020/12/27/NFS%E6%96%87%E4%BB%B6%E5%85%B1%E4%BA%AB%E6%9C%8D%E5%8A%A1/</id>
+    <published>2020-12-27T05:54:00.000Z</published>
+    <updated>2020-12-27T05:54:46.185Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Sat Dec 26 2020 22:51:20 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;linux系统概述第一章&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#linux系统概述第一章&quot;&gt;&lt;/a
+        &lt;!-- build time:Mon Dec 28 2020 10:48:37 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;建立nfs服务器服务器ip地址为1921680109&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#建立n
+      
+    
+    </summary>
+    
+    
+      <category term="笔记" scheme="https://www.chen-yuan-yuan.icu/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="Linux" scheme="https://www.chen-yuan-yuan.icu/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux配置DNS服务器配置步骤并测试</title>
+    <link href="https://www.chen-yuan-yuan.icu/2020/12/27/Linux%E9%85%8D%E7%BD%AEDNS%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%85%8D%E7%BD%AE%E6%AD%A5%E9%AA%A4%E5%B9%B6%E6%B5%8B%E8%AF%95/"/>
+    <id>https://www.chen-yuan-yuan.icu/2020/12/27/Linux%E9%85%8D%E7%BD%AEDNS%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%85%8D%E7%BD%AE%E6%AD%A5%E9%AA%A4%E5%B9%B6%E6%B5%8B%E8%AF%95/</id>
+    <published>2020-12-27T05:22:00.000Z</published>
+    <updated>2020-12-27T05:22:40.283Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Mon Dec 28 2020 10:48:37 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;文字表述配置关键步骤并测试&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#文字表述配置关键步骤并测试&quot;&gt;&lt;
+      
+    
+    </summary>
+    
+    
+      <category term="笔记" scheme="https://www.chen-yuan-yuan.icu/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="Linux" scheme="https://www.chen-yuan-yuan.icu/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux网络配置基础</title>
+    <link href="https://www.chen-yuan-yuan.icu/2020/12/27/Linux%E7%BD%91%E7%BB%9C%E9%85%8D%E7%BD%AE%E5%9F%BA%E7%A1%80/"/>
+    <id>https://www.chen-yuan-yuan.icu/2020/12/27/Linux%E7%BD%91%E7%BB%9C%E9%85%8D%E7%BD%AE%E5%9F%BA%E7%A1%80/</id>
+    <published>2020-12-27T05:16:00.000Z</published>
+    <updated>2020-12-27T05:20:49.842Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Mon Dec 28 2020 10:48:37 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;网络配置的步骤centos65&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#网络配置的步骤centos6
+      
+    
+    </summary>
+    
+    
+      <category term="笔记" scheme="https://www.chen-yuan-yuan.icu/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="Linux" scheme="https://www.chen-yuan-yuan.icu/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux基础</title>
+    <link href="https://www.chen-yuan-yuan.icu/2020/12/26/Linux%E5%9F%BA%E7%A1%80/"/>
+    <id>https://www.chen-yuan-yuan.icu/2020/12/26/Linux%E5%9F%BA%E7%A1%80/</id>
+    <published>2020-12-26T14:48:00.000Z</published>
+    <updated>2020-12-28T02:47:09.402Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Mon Dec 28 2020 10:48:37 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;linux系统概述第一章&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#linux系统概述第一章&quot;&gt;&lt;/a
       
     
     </summary>
@@ -409,78 +481,6 @@
     
     
       <category term="文件权限" scheme="https://www.chen-yuan-yuan.icu/tags/%E6%96%87%E4%BB%B6%E6%9D%83%E9%99%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CentOS 关闭防火墙</title>
-    <link href="https://www.chen-yuan-yuan.icu/2020/06/29/centos7-%E5%85%B3%E9%97%AD%E9%98%B2%E7%81%AB%E5%A2%99/"/>
-    <id>https://www.chen-yuan-yuan.icu/2020/06/29/centos7-%E5%85%B3%E9%97%AD%E9%98%B2%E7%81%AB%E5%A2%99/</id>
-    <published>2020-06-29T12:37:00.000Z</published>
-    <updated>2020-12-13T16:50:12.352Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Mon Dec 14 2020 00:50:12 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;查看&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#查看&quot;&gt;&lt;/a&gt; 查看&lt;/h3&gt;&lt;blockquote
-      
-    
-    </summary>
-    
-    
-      <category term="后端" scheme="https://www.chen-yuan-yuan.icu/categories/%E5%90%8E%E7%AB%AF/"/>
-    
-    
-      <category term="CentOS" scheme="https://www.chen-yuan-yuan.icu/tags/CentOS/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Mac os创建React项目</title>
-    <link href="https://www.chen-yuan-yuan.icu/2019/11/13/%E5%88%9B%E5%BB%BAReact%E9%A1%B9%E7%9B%AE/"/>
-    <id>https://www.chen-yuan-yuan.icu/2019/11/13/%E5%88%9B%E5%BB%BAReact%E9%A1%B9%E7%9B%AE/</id>
-    <published>2019-11-13T09:02:00.000Z</published>
-    <updated>2020-10-27T15:29:14.603Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Wed Dec 02 2020 21:59:16 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;1下载nodejs&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1下载nodejs&quot;&gt;&lt;/a&gt; 1.下载
-      
-    
-    </summary>
-    
-    
-      <category term="前端" scheme="https://www.chen-yuan-yuan.icu/categories/%E5%89%8D%E7%AB%AF/"/>
-    
-    
-      <category term="React" scheme="https://www.chen-yuan-yuan.icu/tags/React/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MySql for Mac拥有者发生改变</title>
-    <link href="https://www.chen-yuan-yuan.icu/2019/06/24/MySql-for-mac%E6%8B%A5%E6%9C%89%E8%80%85%E5%8F%91%E7%94%9F%E6%94%B9%E5%8F%98-%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/"/>
-    <id>https://www.chen-yuan-yuan.icu/2019/06/24/MySql-for-mac%E6%8B%A5%E6%9C%89%E8%80%85%E5%8F%91%E7%94%9F%E6%94%B9%E5%8F%98-%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</id>
-    <published>2019-06-24T10:37:00.000Z</published>
-    <updated>2020-10-30T13:52:48.617Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Wed Dec 02 2020 21:59:16 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;终端输入&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#终端输入&quot;&gt;&lt;/a&gt; 终端输入：&lt;/h3&gt;&lt;ul&gt;
-      
-    
-    </summary>
-    
-    
-      <category term="笔记" scheme="https://www.chen-yuan-yuan.icu/categories/%E7%AC%94%E8%AE%B0/"/>
-    
-    
-      <category term="MySql" scheme="https://www.chen-yuan-yuan.icu/tags/MySql/"/>
     
   </entry>
   
