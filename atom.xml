@@ -137,94 +137,6 @@
   </entry>
   
   <entry>
-    <title>4.男生穿搭-护肤</title>
-    <link href="https://www.chen-yuan-yuan.icu/2020/12/14/4-%E7%94%B7%E7%94%9F%E7%A9%BF%E6%90%AD-%E6%8A%A4%E8%82%A4/"/>
-    <id>https://www.chen-yuan-yuan.icu/2020/12/14/4-%E7%94%B7%E7%94%9F%E7%A9%BF%E6%90%AD-%E6%8A%A4%E8%82%A4/</id>
-    <published>2020-12-14T03:38:00.000Z</published>
-    <updated>2020-12-14T03:41:12.827Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Mon Dec 14 2020 11:41:13 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;护肤相关&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#护肤相关&quot;&gt;&lt;/a&gt; 护肤相关&lt;/h3&gt;&lt;ol&gt;&lt;
-      
-    
-    </summary>
-    
-    
-      <category term="穿搭" scheme="https://www.chen-yuan-yuan.icu/categories/%E7%A9%BF%E6%90%AD/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>3.男生穿搭-穿搭原则</title>
-    <link href="https://www.chen-yuan-yuan.icu/2020/12/14/3-%E7%94%B7%E7%94%9F%E7%A9%BF%E6%90%AD-%E7%A9%BF%E6%90%AD%E5%8E%9F%E5%88%99/"/>
-    <id>https://www.chen-yuan-yuan.icu/2020/12/14/3-%E7%94%B7%E7%94%9F%E7%A9%BF%E6%90%AD-%E7%A9%BF%E6%90%AD%E5%8E%9F%E5%88%99/</id>
-    <published>2020-12-14T03:37:00.000Z</published>
-    <updated>2020-12-14T03:37:35.518Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Mon Dec 14 2020 11:37:35 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;穿搭原则&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#穿搭原则&quot;&gt;&lt;/a&gt; 穿搭原则&lt;/h3&gt;&lt;p&gt;1.
-      
-    
-    </summary>
-    
-    
-      <category term="穿搭" scheme="https://www.chen-yuan-yuan.icu/categories/%E7%A9%BF%E6%90%AD/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>2.男生穿搭-穿搭入门</title>
-    <link href="https://www.chen-yuan-yuan.icu/2020/12/14/%E7%A9%BF%E6%90%AD%E5%85%A5%E9%97%A8/"/>
-    <id>https://www.chen-yuan-yuan.icu/2020/12/14/%E7%A9%BF%E6%90%AD%E5%85%A5%E9%97%A8/</id>
-    <published>2020-12-13T16:44:00.000Z</published>
-    <updated>2020-12-14T03:45:55.240Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Mon Dec 14 2020 11:45:55 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;个人穿搭风格的建立重点&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#个人穿搭风格的建立重点&quot;&gt;&lt;/a&gt; 
-      
-    
-    </summary>
-    
-    
-      <category term="穿搭" scheme="https://www.chen-yuan-yuan.icu/categories/%E7%A9%BF%E6%90%AD/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>1.男生穿搭-本人穿搭</title>
-    <link href="https://www.chen-yuan-yuan.icu/2020/12/01/%E6%9C%AC%E4%BA%BA%E7%A9%BF%E6%90%AD/"/>
-    <id>https://www.chen-yuan-yuan.icu/2020/12/01/%E6%9C%AC%E4%BA%BA%E7%A9%BF%E6%90%AD/</id>
-    <published>2020-12-01T13:01:00.000Z</published>
-    <updated>2020-12-13T16:46:48.885Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;!-- build time:Mon Dec 14 2020 00:46:49 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;护肤类型&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#护肤类型&quot;&gt;&lt;/a&gt; 护肤类型&lt;/h2&gt;&lt;ul&gt;&lt;
-      
-    
-    </summary>
-    
-    
-      <category term="穿搭" scheme="https://www.chen-yuan-yuan.icu/categories/%E7%A9%BF%E6%90%AD/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>CentOS 静态IP配置</title>
     <link href="https://www.chen-yuan-yuan.icu/2020/12/01/CentOS7%20%E9%9D%99%E6%80%81IP%E9%85%8D%E7%BD%AE/"/>
     <id>https://www.chen-yuan-yuan.icu/2020/12/01/CentOS7%20%E9%9D%99%E6%80%81IP%E9%85%8D%E7%BD%AE/</id>
@@ -481,6 +393,102 @@
     
     
       <category term="Git" scheme="https://www.chen-yuan-yuan.icu/tags/Git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mac OS设置文件权限</title>
+    <link href="https://www.chen-yuan-yuan.icu/2020/07/02/Mac-os%E8%AE%BE%E7%BD%AE%E6%96%87%E4%BB%B6%E4%BB%BB%E4%BD%95%E4%BA%BA%E9%83%BD%E8%83%BD%E8%AF%BB%E5%86%99/"/>
+    <id>https://www.chen-yuan-yuan.icu/2020/07/02/Mac-os%E8%AE%BE%E7%BD%AE%E6%96%87%E4%BB%B6%E4%BB%BB%E4%BD%95%E4%BA%BA%E9%83%BD%E8%83%BD%E8%AF%BB%E5%86%99/</id>
+    <published>2020-07-02T10:21:00.000Z</published>
+    <updated>2020-10-27T16:19:08.644Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Wed Dec 02 2020 21:59:16 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;概述&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#概述&quot;&gt;&lt;/a&gt; 概述：&lt;/h3&gt;&lt;blockquot
+      
+    
+    </summary>
+    
+    
+      <category term="笔记" scheme="https://www.chen-yuan-yuan.icu/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="文件权限" scheme="https://www.chen-yuan-yuan.icu/tags/%E6%96%87%E4%BB%B6%E6%9D%83%E9%99%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CentOS 关闭防火墙</title>
+    <link href="https://www.chen-yuan-yuan.icu/2020/06/29/centos7-%E5%85%B3%E9%97%AD%E9%98%B2%E7%81%AB%E5%A2%99/"/>
+    <id>https://www.chen-yuan-yuan.icu/2020/06/29/centos7-%E5%85%B3%E9%97%AD%E9%98%B2%E7%81%AB%E5%A2%99/</id>
+    <published>2020-06-29T12:37:00.000Z</published>
+    <updated>2020-12-13T16:50:12.352Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Mon Dec 14 2020 00:50:12 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;查看&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#查看&quot;&gt;&lt;/a&gt; 查看&lt;/h3&gt;&lt;blockquote
+      
+    
+    </summary>
+    
+    
+      <category term="后端" scheme="https://www.chen-yuan-yuan.icu/categories/%E5%90%8E%E7%AB%AF/"/>
+    
+    
+      <category term="CentOS" scheme="https://www.chen-yuan-yuan.icu/tags/CentOS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mac os创建React项目</title>
+    <link href="https://www.chen-yuan-yuan.icu/2019/11/13/%E5%88%9B%E5%BB%BAReact%E9%A1%B9%E7%9B%AE/"/>
+    <id>https://www.chen-yuan-yuan.icu/2019/11/13/%E5%88%9B%E5%BB%BAReact%E9%A1%B9%E7%9B%AE/</id>
+    <published>2019-11-13T09:02:00.000Z</published>
+    <updated>2020-10-27T15:29:14.603Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Wed Dec 02 2020 21:59:16 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;1下载nodejs&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#1下载nodejs&quot;&gt;&lt;/a&gt; 1.下载
+      
+    
+    </summary>
+    
+    
+      <category term="前端" scheme="https://www.chen-yuan-yuan.icu/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="React" scheme="https://www.chen-yuan-yuan.icu/tags/React/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MySql for Mac拥有者发生改变</title>
+    <link href="https://www.chen-yuan-yuan.icu/2019/06/24/MySql-for-mac%E6%8B%A5%E6%9C%89%E8%80%85%E5%8F%91%E7%94%9F%E6%94%B9%E5%8F%98-%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/"/>
+    <id>https://www.chen-yuan-yuan.icu/2019/06/24/MySql-for-mac%E6%8B%A5%E6%9C%89%E8%80%85%E5%8F%91%E7%94%9F%E6%94%B9%E5%8F%98-%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</id>
+    <published>2019-06-24T10:37:00.000Z</published>
+    <updated>2020-10-30T13:52:48.617Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Wed Dec 02 2020 21:59:16 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;终端输入&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#终端输入&quot;&gt;&lt;/a&gt; 终端输入：&lt;/h3&gt;&lt;ul&gt;
+      
+    
+    </summary>
+    
+    
+      <category term="笔记" scheme="https://www.chen-yuan-yuan.icu/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="MySql" scheme="https://www.chen-yuan-yuan.icu/tags/MySql/"/>
     
   </entry>
   

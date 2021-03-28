@@ -3,10 +3,6 @@ https://www.chen-yuan-yuan.icu/2020/12/27/NFS%E6%96%87%E4%BB%B6%E5%85%B1%E4%BA%A
 https://www.chen-yuan-yuan.icu/2020/12/27/Linux%E9%85%8D%E7%BD%AEDNS%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%85%8D%E7%BD%AE%E6%AD%A5%E9%AA%A4%E5%B9%B6%E6%B5%8B%E8%AF%95/
 https://www.chen-yuan-yuan.icu/2020/12/27/Linux%E7%BD%91%E7%BB%9C%E9%85%8D%E7%BD%AE%E5%9F%BA%E7%A1%80/
 https://www.chen-yuan-yuan.icu/2020/12/26/Linux%E5%9F%BA%E7%A1%80/
-https://www.chen-yuan-yuan.icu/2020/12/14/4-%E7%94%B7%E7%94%9F%E7%A9%BF%E6%90%AD-%E6%8A%A4%E8%82%A4/
-https://www.chen-yuan-yuan.icu/2020/12/14/3-%E7%94%B7%E7%94%9F%E7%A9%BF%E6%90%AD-%E7%A9%BF%E6%90%AD%E5%8E%9F%E5%88%99/
-https://www.chen-yuan-yuan.icu/2020/12/14/%E7%A9%BF%E6%90%AD%E5%85%A5%E9%97%A8/
-https://www.chen-yuan-yuan.icu/2020/12/01/%E6%9C%AC%E4%BA%BA%E7%A9%BF%E6%90%AD/
 https://www.chen-yuan-yuan.icu/2020/12/01/CentOS7%20%E9%9D%99%E6%80%81IP%E9%85%8D%E7%BD%AE/
 https://www.chen-yuan-yuan.icu/2020/12/01/Mac%E8%BF%9E%E6%8E%A5%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8/
 https://www.chen-yuan-yuan.icu/2020/11/01/hexo%E5%8D%9A%E5%AE%A2%E7%9A%84%E8%B0%B7%E6%AD%8C%E6%94%B6%E5%BD%95/
@@ -18,3 +14,7 @@ https://www.chen-yuan-yuan.icu/2020/09/23/CentOS%20%E5%90%AF%E5%8A%A8%20Nginx%20
 https://www.chen-yuan-yuan.icu/2020/07/09/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%EF%BC%9Ajson%E6%95%B0%E6%8D%AE-%E2%80%9C0%E2%80%9D-%E2%80%9Ca%E2%80%9D-%E7%9A%84%E5%A4%84%E7%90%86/
 https://www.chen-yuan-yuan.icu/2020/07/05/npm-cnpm%E5%92%8Cyarn%E7%9A%84%E5%8C%BA%E5%88%AB/
 https://www.chen-yuan-yuan.icu/2020/07/05/%E6%B8%85%E9%99%A4%E9%A1%B9%E7%9B%AE%E7%9A%84git%E4%BF%A1%E6%81%AF/
+https://www.chen-yuan-yuan.icu/2020/07/02/Mac-os%E8%AE%BE%E7%BD%AE%E6%96%87%E4%BB%B6%E4%BB%BB%E4%BD%95%E4%BA%BA%E9%83%BD%E8%83%BD%E8%AF%BB%E5%86%99/
+https://www.chen-yuan-yuan.icu/2020/06/29/centos7-%E5%85%B3%E9%97%AD%E9%98%B2%E7%81%AB%E5%A2%99/
+https://www.chen-yuan-yuan.icu/2019/11/13/%E5%88%9B%E5%BB%BAReact%E9%A1%B9%E7%9B%AE/
+https://www.chen-yuan-yuan.icu/2019/06/24/MySql-for-mac%E6%8B%A5%E6%9C%89%E8%80%85%E5%8F%91%E7%94%9F%E6%94%B9%E5%8F%98-%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/
